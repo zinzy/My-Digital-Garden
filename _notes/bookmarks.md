@@ -92,6 +92,9 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 - [Lady and Pups](https://ladyandpups.com/) 
 - [Smitten Kitchen](https://smittenkitchen.com/)
 
+### Directories
+- https://ooh.directory/
+
 ### Crafts
 - [Needle 'n Thread](https://www.needlenthread.com/tips-techniques#tntlessons)
 
@@ -107,5 +110,5 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 ### Self care
 - [https://curlsandcocoa.com](https://curlsandcocoa.com/)
 
-## Academic
+### Academic
 - [https://placesjournal.org](https://placesjournal.org/)
