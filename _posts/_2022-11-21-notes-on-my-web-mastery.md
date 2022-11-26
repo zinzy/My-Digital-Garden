@@ -9,12 +9,13 @@ tags:
 Recently, I've been making some great progress with my personal website. While I normally don't engage in elaborate technical ballets on the goings-on of this website, I feel it's relevant to document what I've learnt and done, if only for posterity.
 
 ### Tools
-- This website is created using [Jekyll](https://jekyllrb.com/)
-- Its code is maintained on Github
-- It
+- [Jekyll](https://jekyllrb.com/): as always, this site is built using my favorite flat-file content management system
+- [Github](https://github.com/): hosts the code for this website
+- [Netlify](https://www.netlify.com/): serves the content to my website
+- [Obsidian](https://obsidian.md/): this is where I write
 
 ### Writing
-Many of the things I write are not for public consumption, but they are closely linked to things that *are*. Currently, I have one [Obsidian](https://obsidian.md/) with two folders: one for private use, and one that contains what essentially is my [[Digital garden]]. 
+My website is a text-heavy space: most of what you'll find on here is written content. As a knowledge worker, writing is an integral part of my daily life. Many of the things I write are not for public consumption, but they are closely linked to things that *are*. Currently, I have one [Obsidian](https://obsidian.md/) with two folders: one for private use, and one that contains what essentially is my [[Digital garden]]. 
 
 ### Publishing
 - The Obsidian plugin [obsidian-git](https://github.com/denolehov/obsidian-git) manages the version control of my vault
