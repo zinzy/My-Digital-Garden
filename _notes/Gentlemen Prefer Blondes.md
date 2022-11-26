@@ -1,3 +1,8 @@
+---
+title: "Gentlemen Prefer Blondes"
+category: "Title"
+---
+
 Part of _Fiction & Science_ series at [[Rialto]], with introduction by [[Roel van den Oever]].
 
 Hollywood studio era: 20s to 60s 
