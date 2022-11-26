@@ -9,17 +9,10 @@ tags:
 Recently, I've been making some great progress with my personal website. While I normally don't engage in elaborate technical descriptions of my online life, I feel it's relevant to document what I've learnt and done, if only for posterity.
 
 ### The setup of this website
-- This website runs on [Jekyll](https://jekyllrb.com/), an open source flat-file content management system
-- I like to have my work sit in a folder that I can move around because I believe [[Tools don't matter]]. Jekyll allows me to do just this.
-- 
--  it's important that I organize my writing in such a way that I can write and edit from virtually anywhere. I like to feel that I can "touch" my writing, and see it sit in a folder. Flat-file content management allows me to do just that. Over the years I've tried a variety of projects. Jekyll remains my favorite. 
-
-Like many other people, I use my computer almost every day. Nevertheless, I enjoy a setup that allows me to write things on the fly on my phone without having to copy text back and forth. 
+This website runs on [Jekyll](https://jekyllrb.com/), an open source flat-file content management system. This means, among other things, that I don't need a database to access my files. I like to have my work sit in a folder that I can move around because I believe [[Tools don't matter]]. Jekyll allows me to do just this.
 
 ### Writing
-My website consists of two areas: the code, and the content.
-- The code lives in a git repository
-- The content lives in my digital garden repository
+Many of the things I write are not for public consumption, but they are closely linked to things that *are*. Currently, I have one [Obsidian](https://obsidian.md/) with two folders: one for private use, and one that contains what essentially is my [[Digital garden]]. 
 
 ### Publishing
 I like to spend most of my time producing and editing content, not tinkering with my website setup. That's why I 
