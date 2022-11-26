@@ -1,6 +1,6 @@
 ---
 title: "Notes on my web mastery"
-date: 2022-11-21
+date: 2022-11-26
 tags:
 - IndieWeb
 - Web development
