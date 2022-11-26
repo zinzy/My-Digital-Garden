@@ -1,6 +1,6 @@
 ---
 title: "Gentlemen Prefer Blondes"
-category: "Title"
+category: "Titles"
 ---
 
 Part of _Fiction & Science_ series at [[Rialto]], with introduction by [[Roel van den Oever]].
