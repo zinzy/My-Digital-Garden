@@ -20,3 +20,4 @@ tags:
 - The first Arthur Miller scene with the weird technicolor background seems entirely unnecessary 
 - What does the story want to say? That she was secretly a brilliantly deep actor?
 - I wonder when women began calling their love interests "daddy". I can't imagine Marilyn originated this but I also wouldn't put it past her. 
+- Whitey putting makeup on Marilyn's face when she's lying down is foreshadowing her death 

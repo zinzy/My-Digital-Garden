@@ -8,4 +8,5 @@ excerpt: "A list of things I'd like to have done at some point in my life"
 - Complete a week-long silent retreat
 - Visit the cat island in Japan
 - Visit Israel
-- Visit Mary in California
+- Visit California
+- Take a ceramics course

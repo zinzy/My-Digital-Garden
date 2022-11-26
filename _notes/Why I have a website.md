@@ -36,10 +36,9 @@ To me, there are countless benefits to having your own website:
 - You're free to choose tools that align with your personal values
 - When people Google you, they see you! Not a list of social media websites
 
-
+---
 
 When people Google me, the first thing they will see is a link to this website. On here, those interested can learn more about my work, and other things that are important to me.
-
 
 Many people choose to segregate the personal information they share on a personal website. Some limit it to their work, others to their goings-on at home. Some use a single domain to share everything, like me.
 
