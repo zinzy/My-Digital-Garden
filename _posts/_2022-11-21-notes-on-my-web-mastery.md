@@ -2,12 +2,14 @@
 title: "Notes on my web mastery"
 date: 2022-11-21
 tags:
-- 
+- IndieWeb
+- Web development
+- Tinkering
 ---
-Recently, I've been making some great progress with my personal website. While I normally don't engage in elaborate technical descriptions of my online life, I feel it's relevant to share what I've learnt and done, if only for posterity.
+Recently, I've been making some great progress with my personal website. While I normally don't engage in elaborate technical descriptions of my online life, I feel it's relevant to document what I've learnt and done, if only for posterity.
 
 ### The setup of this website
-This website runs on Jekyll, an open source flat-file content management system. Because I believe [[Tools don't matter]], it's important that I organize my writing in such a way that I can write and edit from virtually anywhere. I like to feel that I can "touch" my writing, and see it sit in a folder. Flat-file content management allows me to do just that. Over the years I've tried a variety of projects. Jekyll remains my favorite. 
+This website runs on [Jekyll](https://jekyllrb.com/), an open source flat-file content management system. Because I believe [[Tools don't matter]], it's important that I organize my writing in such a way that I can write and edit from virtually anywhere. I like to feel that I can "touch" my writing, and see it sit in a folder. Flat-file content management allows me to do just that. Over the years I've tried a variety of projects. Jekyll remains my favorite. 
 
 Like many other people, I use my computer almost every day. Nevertheless, I enjoy a setup that allows me to write things on the fly on my phone without having to copy text back and forth. 
 
