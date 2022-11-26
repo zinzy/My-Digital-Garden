@@ -17,4 +17,4 @@ Many of the things I write are not for public consumption, but they are closely 
 ### Publishing
 - The Obsidian plugin [obsidian-git](https://github.com/denolehov/obsidian-git) manages the version control of my vault
 - The Github action [Push git subdirectory as branch](https://github.com/marketplace/actions/push-git-subdirectory-as-branch) publishes the public contents of my vault to a separate repository
-- 
+- The public contents are pulled into my code base as a submodule, and [Netlify looks for updates before a build](https://mtsknn.fi/blog/netlify-updating-private-git-submodule/)
