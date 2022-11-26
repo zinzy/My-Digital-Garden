@@ -1,6 +1,16 @@
 ---
 title: "Gentlemen Prefer Blondes"
 category: "Titles"
+excerpt: "Queer-leaning notes on a movie screening"
+tags:
+- Hollywood
+- Cinema
+- Studio era
+- Mysogyny
+- Queer studies
+- Fiction
+- Adaptation
+- Gender
 ---
 
 Part of _Fiction & Science_ series at [[Rialto]], with introduction by [[Roel van den Oever]].
