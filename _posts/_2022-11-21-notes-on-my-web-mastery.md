@@ -15,4 +15,6 @@ This website runs on [Jekyll](https://jekyllrb.com/), an open source flat-file c
 Many of the things I write are not for public consumption, but they are closely linked to things that *are*. Currently, I have one [Obsidian](https://obsidian.md/) with two folders: one for private use, and one that contains what essentially is my [[Digital garden]]. 
 
 ### Publishing
-I like to spend most of my time producing and editing content, not tinkering with my website setup. That's why I 
+- The Obsidian plugin [obsidian-git](https://github.com/denolehov/obsidian-git) manages the version control of my vault
+- The Github action [Push git subdirectory as branch](https://github.com/marketplace/actions/push-git-subdirectory-as-branch) publishes the public contents of my vault to a separate repository
+- 
