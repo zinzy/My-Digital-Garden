@@ -1,4 +1,5 @@
 ---
+title: "Tools don't matter"
 excerpt: "With perpetual access to The Next Best Thing, I've found it helpful to remind myself that staying flexible around technology is a blessing."
 category: "Knowledge work"
 ---
@@ -6,7 +7,9 @@ category: "Knowledge work"
 
 > I could reboot my work environment in just an hour or so with a decent internet connection, any laptop, and a stationary store.
 
-I'm yet to convince myself that is a bad idea. In my journey as a human with a personal computer, I've come to prefer platform- and application-agnostic computing over anything else. Sure, I have my preferences, but I don't want any long-term engagement with products that force me to limit my opportunities.
+I'm yet to convince myself that is a bad idea.
+
+In my journey as a human with a personal computer, I've come to prefer platform- and application-agnostic computing over anything else. Sure, I have my preferences, but I don't want any long-term engagement with products that force me to limit my opportunities.
 
 ### Tools don't matter means:
 - I focus my attention on an object, not on the tool I can use to manipulate it (example: I keep a large collection of plain text files in my [[second brain]]. Over the years, I've used countless apps to manipulate these files.)
