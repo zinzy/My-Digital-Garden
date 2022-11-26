@@ -81,6 +81,7 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 - [An IndieWeb Webring](https://xn--sr8hvo.ws/)
 - [Yesterweb](https://yesterweb.org/)
 - [https://yarchive.net](https://yarchive.net/)
+- 
 
 ### Collectives
 - [Dan & Richard & You](https://danandrichardandyou.com)
@@ -95,6 +96,8 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 
 ### Directories
 - https://ooh.directory/
+- [https://blogscroll.com](https://blogscroll.com/)
+
 
 ### Crafts
 - [Needle 'n Thread](https://www.needlenthread.com/tips-techniques#tntlessons)
@@ -113,3 +116,6 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 
 ### Academic
 - [https://placesjournal.org](https://placesjournal.org/)
+
+### Queerdom
+- [https://butchisnotadirtyword.com](https://butchisnotadirtyword.com/)
