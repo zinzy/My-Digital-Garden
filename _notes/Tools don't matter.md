@@ -9,7 +9,9 @@ category: "Knowledge work"
 
 I'm yet to convince myself that is a bad idea.
 
-In my journey as a human with a personal computer, I've come to prefer platform- and application-agnostic computing over anything else. Sure, I have my preferences, but I don't want any long-term engagement with products that force me to limit my opportunities.
+In my journey as a human with a personal computer, and more specifically as somebody who performs [[Knowledge work]], I've come to prefer platform- and application-agnostic computing over anything else. When I consider using a particular app or platform, I pay close attention to how it will let me work with the things I create. This has helped me keep my writing organized since 2005.
+
+Sure, I have my preferences, but I don't want any long-term engagement with products that force me to limit my opportunities.
 
 ### Tools don't matter means:
 - I focus my attention on an object, not on the tool I can use to manipulate it (example: I keep a large collection of plain text files in my [[second brain]]. Over the years, I've used countless apps to manipulate these files.)
