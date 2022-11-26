@@ -6,7 +6,9 @@ tags:
 - Web development
 - Tinkering
 ---
-Recently, I've been making some great progress with my personal website. While I normally don't engage in elaborate technical descriptions of my online life, I feel it's relevant to document what I've learnt and done, if only for posterity.
+Recently, I've been making some great progress with my personal website. While I normally don't engage in elaborate technical ballets on the goings-on of this website
+
+descriptions of my online life, I feel it's relevant to document what I've learnt and done, if only for posterity.
 
 ### The setup of this website
 - This website runs on [Jekyll](https://jekyllrb.com/), an open source flat-file content management system. This means, among other things, that I don't need a database to access my files. I like to have my work sit in a folder that I can move around because I believe [[Tools don't matter]]. Jekyll allows me to do just this.
