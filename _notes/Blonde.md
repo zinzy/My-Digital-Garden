@@ -8,6 +8,7 @@ tags:
 - Studio era
 - Misogyny
 - Trauma
+- Long duration
 ---
 - Gorgeous shots
 - Interesting auditory focalization (specifically the scene with DiMaggio where they seem to exist in a vacuum)

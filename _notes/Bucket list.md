@@ -10,3 +10,6 @@ excerpt: "A list of things I'd like to have done at some point in my life"
 - Visit Israel
 - Visit California
 - Take a ceramics course
+- Own and play an electric guitar
+- Show artwork in a cafe
+- Make a blouse
