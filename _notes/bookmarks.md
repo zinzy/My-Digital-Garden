@@ -54,6 +54,7 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 - [Tom Critchlow](https://tomcritchlow.com) 
 - [Tom Hackshaw](https://tom.so)  
 - [Thomasorus](https://thomasorus.com)  
+- [https://stephanango.com](https://stephanango.com/)
 - https://filipedonadio.com/
 - https://nicolevanderhoeven.com/
 - https://heymichellemac.com/
@@ -74,8 +75,8 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 - https://www.marceldochamp.net/
 - [https://mrmrs.cc](https://mrmrs.cc/)
 - [http://www.pierrebuttin.com](http://www.pierrebuttin.com/)
-- https://den.dev
-- [https://stephanango.com](https://stephanango.com/)
+- https://den.dev 
+
 
 ### Communities
 - [IndieWeb](https://indieweb.org/)
