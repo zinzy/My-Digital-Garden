@@ -95,7 +95,7 @@ I'm privileged because:
 ### Chapter: Health
 
 ### Chapter: Learning
-- Discomfort is where growth happens
+- [[$ Discomfort is where growth happens]]
 
 ### Chapter: Work & making
 
