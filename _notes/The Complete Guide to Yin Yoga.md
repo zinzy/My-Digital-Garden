@@ -11,7 +11,7 @@ tags:
 - mental health
 - somatic intelligence
 excerpt: "Book notes"
-categories: [Titles"
+categories: [Titles]
 ---
 These are rough book notes in Dutch.
 

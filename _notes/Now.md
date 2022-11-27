@@ -1,6 +1,6 @@
 ---
 title: "Now"
-categories: [Me"
+categories: [Me]
 excerpt: ""
 tags:
 - 

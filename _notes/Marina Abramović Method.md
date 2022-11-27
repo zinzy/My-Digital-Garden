@@ -1,5 +1,5 @@
 ---
 excerpt: ""
-categories: [Art"
+categories: [Art]
 ---
 {% include empty.html %}

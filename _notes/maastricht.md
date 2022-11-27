@@ -1,5 +1,5 @@
 ---
-categories: [Places"
+categories: [Places]
 excerpt: "A city in the south of the Netherlands"
 ---
 

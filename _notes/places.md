@@ -1,5 +1,5 @@
 ---
-categories: [Lists"
+categories: [Lists]
 excerpt: "Places I've been to or would like to visit"
 ---
 ### Lived in

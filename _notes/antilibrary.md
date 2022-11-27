@@ -3,7 +3,7 @@ categories: [Media]
 excerpt: "Books, articles, films, podcasts, and other media artefacts that I would like to consume at some point in the future"
 ---
 
-## Books
+### Books
 - _Black Womanhood: Images, Icons and Ideologies of the African Body_ by Barbara Thompson
 - _Manifesto_ by Bernardine Evaristo
 - _Per toeval filosoferen_ by Pieter Lemmens
@@ -24,6 +24,9 @@ excerpt: "Books, articles, films, podcasts, and other media artefacts that I wou
 - _Africa is not a country_
 - *The Philosophy of Money*
 
-## Films
+### Films
 - _Nederland op film_
 - _Mass_
+
+### Other
+- https://link.springer.com/chapter/10.1007/978-3-030-74974-3_1#Sec275

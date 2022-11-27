@@ -1,6 +1,6 @@
 ---
 title: "Ask why before how"
-categories: [Practice"
+categories: [Practice]
 excerpt: ""
 tags:
 - 

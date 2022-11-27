@@ -1,5 +1,5 @@
 ---
-categories: [Cooking"
+categories: [Cooking]
 excerpt: "Multifunctional dough"
 ---
 

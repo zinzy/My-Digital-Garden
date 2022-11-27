@@ -1,6 +1,6 @@
 ---
 excerpt: "An overview of the style elements that make up this website"
-categories: [Meta"
+categories: [Meta]
 ---
 
 ### Typography

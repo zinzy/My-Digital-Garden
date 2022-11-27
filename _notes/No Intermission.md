@@ -1,6 +1,6 @@
 ---
 excerpt: "I attended Marina Abramović's show in Carré in October of 2022."
-categories: [Events"
+categories: [Events]
 tags:
 - Performance art
 - Art show

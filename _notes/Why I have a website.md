@@ -7,7 +7,7 @@ tags:
 - Identity
 - Publishing
 - Writing
-categories: [Internet"
+categories: [Internet]
 implied: "People who have never owned a personal website, who have a vague understanding of why anybody would want to, and who are not sure how they'd ever get started. For example, my friend Nienke. Hi Nienke!"
 ---
 

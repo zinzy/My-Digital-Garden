@@ -1,7 +1,7 @@
 ---
 title: Narrative
 startdate: "2019-04-05"
-categories: [Language"
+categories: [Language]
 tags:
   - language
 excerpt: "An ode to my father-in-law, who told me all narratives are called 'stories'."

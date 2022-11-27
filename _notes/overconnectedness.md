@@ -1,5 +1,5 @@
 ---
-categories: [Internet"
+categories: [Internet]
 excerpt: "A state that develops when I'm so well-exposed to the everyday lives of other people that I lose my curiosity about their lives"
 ---
 
