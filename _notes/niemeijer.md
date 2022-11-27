@@ -1,5 +1,5 @@
 ---
-category: "Places"
+categories: "Places"
 excerpt: "My favorite bakery in Amsterdam"
 ---
 

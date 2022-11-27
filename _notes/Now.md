@@ -1,6 +1,6 @@
 ---
 title: "Now"
-category: "Me"
+categories: "Me"
 excerpt: ""
 tags:
 - 

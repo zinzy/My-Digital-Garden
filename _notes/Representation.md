@@ -1,6 +1,6 @@
 ---
 title: "Representation"
-category: "Society"
+categories: "Society"
 excerpt: ""
 tags:
 - 

@@ -1,7 +1,7 @@
 ---
 title: "The Midnight Library"
 excerpt: "A friend told me this book was a good read, and she wasn't wrong."
-category: "Titles"
+categories: "Titles"
 tags:
 - Novel
 - Literature

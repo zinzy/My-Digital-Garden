@@ -1,5 +1,5 @@
 ---
-category: "Design"
+categories: "Design"
 excerpt: "A design technique"
 ---
 

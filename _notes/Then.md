@@ -1,6 +1,6 @@
 ---
 title: "Then"
-category: "Me"
+categories: "Me"
 excerpt: ""
 tags:
 - 

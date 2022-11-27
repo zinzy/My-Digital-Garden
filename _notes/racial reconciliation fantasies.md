@@ -1,5 +1,5 @@
 ---
-category: "Media"
+categories: "Media"
 excerpt: "Stories about White people self-actualizing against the backdrop of non-white lives"
 ---
 

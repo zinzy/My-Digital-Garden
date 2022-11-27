@@ -1,5 +1,5 @@
 ---
-category: "Media"
+categories: "Media"
 excerpt: "A collection of things I have attended, read, or watched"
 ---
 

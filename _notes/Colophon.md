@@ -1,7 +1,7 @@
 ---
 title: "Colophon"
 excerpt: "Notes on how, where, and why this website is made."
-category: "Meta"
+categories: "Meta"
 ---
 This is a personal website, designed, built, and maintained by [[About|me, Zinzy Waleson Geene]].
 

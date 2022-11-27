@@ -1,6 +1,6 @@
 ---
 title: "STAR model"
-category: "Practice"
+categories: "Practice"
 excerpt: ""
 tags:
 - 

@@ -1,5 +1,5 @@
 ---
-category: "Learning"
+categories: "Learning"
 excerpt: "Notes on practice"
 ---
 

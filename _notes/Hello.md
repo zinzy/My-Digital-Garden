@@ -1,6 +1,6 @@
 ---
 title: "Hello"
-category: "Me"
+categories: "Me"
 excerpt: ""
 tags:
 - 

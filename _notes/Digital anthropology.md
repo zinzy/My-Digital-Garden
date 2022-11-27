@@ -1,5 +1,5 @@
 ---
-category: "Internet"
+categories: "Internet"
 excerpt: "Notes on a concept I'm learning about"
 ---
 A field within the anthropological discipline that studies the relationship between humans and technology from the digital era, and the relationship between the digital and non-digital spheres in which humans exist. 

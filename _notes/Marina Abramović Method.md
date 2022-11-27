@@ -1,5 +1,5 @@
 ---
 excerpt: ""
-category: "Art"
+categories: "Art"
 ---
 {% include empty.html %}

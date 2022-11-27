@@ -1,5 +1,5 @@
 ---
-category: "Health"
+categories: "Health"
 toc: true
 excerpt: "On the experiences I have as I go through recovery"
 ---

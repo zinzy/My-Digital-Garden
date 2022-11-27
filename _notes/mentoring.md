@@ -1,5 +1,5 @@
 ---
-category: "Info"
+categories: "Info"
 excerpt: "I reserve a portion of my time to remotely mentor designers and researchers"
 ---
 <mark>As of June 2022, I'm taking a break from mentoring.</mark>

@@ -1,7 +1,7 @@
 ---
 title: "Quiet queer spaces"
 excerpt: "Thoughts on the gap that I am trying to fill as a queer facilitator"
-category: "Queerdom"
+categories: "Queerdom"
 date: "2018-12-02"
 tags:
  - facilitation

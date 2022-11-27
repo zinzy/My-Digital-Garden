@@ -2,7 +2,7 @@
 title: "Men's liberation movement"
 excerpt: "The men's liberation movement came on my radar in recent years as a healthy way of approaching the topic of The Patriarchy™"
 date: "2021-02-21"
-category: "Society"
+categories: "Society"
 ---
 The men's liberation movement came on my radar in recent years as a healthy way of approaching the topic of The Patriarchy™. It's a growing, diverse movement of people who  critique and question the surprisingly narrow boxes in which our societies tend to put men. When I got acquainted with [[Standpoint theory]], two things dawned on me:
 

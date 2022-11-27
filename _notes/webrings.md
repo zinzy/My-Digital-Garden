@@ -1,5 +1,5 @@
 ---
-category: "Internet"
+categories: "Internet"
 excerpt: "One of my favorite things about the independent Internet is a continued interest in webrings."
 ---
 A webring, one of the many artifacts of the early Internet, is a (sometimes thematic) set of websites that is organized as a chain, with each website pointing to a previous and a next website.

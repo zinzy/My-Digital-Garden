@@ -1,5 +1,5 @@
 ---
-category: "Internet"
+categories: "Internet"
 excerpt: "Notes on what it means to be on the Internet"
 ---
 A term I borrow from [Andy Matuschak](https://notes.andymatuschak.org/z4bK6LaSBRetDzuYkeCs3A8mJ8DufTbK4o6FS)

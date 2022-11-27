@@ -1,7 +1,7 @@
 ---
 title: "Seven questions"
 excerpt: "What we can do instead of giving advice"
-category: "Language"
+categories: "Language"
 date: "2021-11-09"
 tags:
  - interpersonal

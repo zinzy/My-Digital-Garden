@@ -1,6 +1,6 @@
 ---
 title: "Discomfort of emotions"
-category: "Health"
+categories: "Health"
 excerpt: ""
 tags:
 - 

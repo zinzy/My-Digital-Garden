@@ -1,6 +1,6 @@
 ---
 title: "Brutalist web design"
-category: "Design"
+categories: "Design"
 excerpt: ""
 tags:
 - 

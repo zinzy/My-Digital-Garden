@@ -1,6 +1,6 @@
 ---
 title: "Do the right thing"
-category: "Practice"
+categories: "Practice"
 excerpt: ""
 tags:
 - 

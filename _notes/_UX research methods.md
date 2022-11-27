@@ -1,6 +1,6 @@
 ---
 title: "UX research methods"
-category: ""
+categories: ""
 excerpt: ""
 tags:
 - 
