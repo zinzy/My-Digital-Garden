@@ -1,5 +1,5 @@
 ---
-categories: [Internet"
+categories: [Internet]
 excerpt: "Funny comments I come across on Github"
 ---
 

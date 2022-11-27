@@ -1,5 +1,5 @@
 ---
-categories: [Society"
+categories: [Society]
 excerpt: "Intersectional notes on the hit series"
 ---
 When it comes to [[Erasing racism]], _Riverdale_ has proven a space that helped me further explore this topic. There are various reasons why one could argue that _Riverdale_ promotes diversity and inclusion:

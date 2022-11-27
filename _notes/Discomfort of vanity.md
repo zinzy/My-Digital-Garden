@@ -1,6 +1,6 @@
 ---
 title: "Discomfort of vanity"
-categories: [Design"
+categories: [Design]
 excerpt: ""
 tags:
 - 

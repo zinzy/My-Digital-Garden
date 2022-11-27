@@ -1,6 +1,6 @@
 ---
 title: "Frequently asked questions"
-categories: [Info"
+categories: [Info]
 excerpt: "A place to find answers to your questions"
 ---
 ## I'm thinking of moving into UX. Can we chat?

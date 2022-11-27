@@ -1,5 +1,5 @@
 ---
-categories: [Media"
+categories: [Media]
 ---
 Heardle is a browser-based [[Music]] game the setup of which was derived from the immensely popular game [[Wordle]]. Every day, Heardle allots the user six attempts to guess a song. It starts out as a short fragment, and seconds are added with each missed guess. After six guesses, the full song will play. 
 

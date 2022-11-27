@@ -1,5 +1,5 @@
 ---
-categories: [Cooking"
+categories: [Cooking]
 excerpt: "A versatile recipe for lunch, dinner, and snacks"
 ---
 

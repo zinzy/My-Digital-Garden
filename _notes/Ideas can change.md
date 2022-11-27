@@ -1,7 +1,7 @@
 ---
 title: "Ideas can change"
 excerpt: "... and that's exactly what makes them so great"
-categories: [Evergreen"
+categories: [Evergreen]
 ---
 You forget this sometimes, and it has gotten you into a serious pickle on some occassions.
 
