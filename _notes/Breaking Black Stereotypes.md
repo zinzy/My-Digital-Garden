@@ -1,5 +1,5 @@
 ---
-categories: [Event"
+categories: [Events]
 excerpt: "An event I attended in October 2022"
 ---
 <figure>

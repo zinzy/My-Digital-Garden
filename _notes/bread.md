@@ -1,5 +1,5 @@
 ---
-categories: [Cooking"
+categories: [Cooking]
 excerpt: "Notes on baking"
 ---
 
