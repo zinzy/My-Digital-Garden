@@ -2,6 +2,7 @@
 title: "Now"
 categories: [Me]
 excerpt: ""
+highlight: true
 tags:
 - 
 ---

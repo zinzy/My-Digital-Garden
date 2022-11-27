@@ -1,6 +1,7 @@
 ---
 categories: [Internet]
 excerpt: "A people-focused alternative to the 'corporate web'"
+highlight: true
 ---
 
 # IndieWeb

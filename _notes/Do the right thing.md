@@ -2,6 +2,7 @@
 title: "Do the right thing"
 categories: [Practices]
 excerpt: ""
+highlight: true
 tags:
 - 
 ---
