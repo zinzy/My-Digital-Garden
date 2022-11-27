@@ -76,7 +76,7 @@ I'm privileged because:
 ### Chapter: Culture
 
 ### Society
-- [[Connection is the fuel of life]]
+- [[$ Connection is the fuel of life]]
 - To learn about a group of people, look at the stories they tell themselves and others
 
 #### Media
