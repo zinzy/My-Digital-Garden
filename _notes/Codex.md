@@ -67,7 +67,7 @@ I'm privileged because:
 
 #### Family
 - No person should be forced to carry on a relationship with family members. 
-- Some people shouldn't become parents. 
+- [[* Some people should be child-free. ]]
 - Sometimes, going no contact with a parent is the least damaging option. 
 
 #### Partnership
@@ -88,7 +88,7 @@ I'm privileged because:
 
 #### Politics and policies
 - No political system is flawless, some are worse than others
-- Both revolution and evolution are required for change
+- [[* Change requires revolution and evolution]]
 - Ones politics cannot be seen separatedly from ones character and conduct. Sometimes, it's not possible to "engage with someone despite your different views", because of the implications those views have
 - 
 
