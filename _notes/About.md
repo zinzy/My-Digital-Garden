@@ -6,18 +6,11 @@ tags:
 - meta
 - information
 ---
-
-  
-
 I work at the intersection of research, design, language, and strategy, which mostly means I like a good story.
-
-  
 
 I have a great fondness for the creativity, potential, and independence that Internet brings us. My work aims to bring those values to people solving problems at work.
 
-  
-
-I currently manage design at [[Public/_notes/Leeruniek]], where we're taking an interdisciplinary approach to sustainable educational data.
+I currently manage design at [[Leeruniek]], where we're taking an interdisciplinary approach to sustainable educational data.
 
   
 

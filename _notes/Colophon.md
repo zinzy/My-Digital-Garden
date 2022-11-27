@@ -9,7 +9,7 @@ This is a personal website, designed, built, and maintained by [[About|me, Zinzy
 - This website is casual, unpretentious, and unassuming.
 - On here, you'll find soft stances, lived experiences, and critical notes on the things I hold dear. 
 - It's organized as a collection of loosely linked, unfinished thoughts.
-- I use this website to participate in the IndieWeb, a great community of people who enjoy tinkering on personal websites, as well as independence while they do so.
+- I use this website to participate in the [[IndieWeb]], a great community of people who enjoy tinkering on personal websites, as well as independence while they do so.
 
 ### Technical details
 - This website is built in [Jekyll](https://jekyllrb.com/), a flat-file content management system I've been using for years. I like my familiarity with the platform, as well as the light-weight nature of flat-file systems.

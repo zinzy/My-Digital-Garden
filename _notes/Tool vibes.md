@@ -14,7 +14,7 @@ I'm aware that the following terms may (somewhat) describe this concept:
 - Analysis paralysis
 - Early adopter complex
 
-#### Cause [[Discomfort of emotions]]for distinction
+#### Cause [[Discomfort of emotions]]
 I've found that tool vibes are a very particular longing, one that is caused by the omnipresence of the objects that these tools help us access: our experience of time, our list of tasks, our goals, our vision. 
 
 ### Characteristics
