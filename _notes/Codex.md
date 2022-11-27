@@ -32,7 +32,7 @@ Feel free to read and learn, and remember:
 - My beliefs and principles may change and that's okay 
 - My questions are relevant
 - I'm great at finding connections with others 
-- At heart I'm a cultural relativist
+- At heart I'm at home in [[Cultural relativism]]
 
 #### Privileges
 I'm privileged because:
