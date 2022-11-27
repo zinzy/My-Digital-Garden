@@ -1,6 +1,6 @@
 ---
 excerpt: "Reading notes"
-categories: "Learning"
+categories: [Learning"
 ---
 Currently making my way through _Colloquial Yiddish_.
 

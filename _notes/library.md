@@ -1,5 +1,5 @@
 ---
-categories: "Media"
+categories: [Media"
 excerpt: "What I'm watching, reading, and listening to"
 ---
 

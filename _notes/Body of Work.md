@@ -1,6 +1,6 @@
 ---
 title: "Body of Work"
-categories: "Event"
+categories: [Event"
 excerpt: "Hannah Gadsby's third stand-up comedy show"
 tags:
 - 

@@ -1,5 +1,5 @@
 ---
-categories: "Media"
+categories: [Media"
 excerpt: "Notes on an Internet trend"
 ---
 The latest trend in online publishing, a digital garden is a publicly available collection of notes in various stages of refinement, tended to and updated online for everyone to see. It sits snuggly in between a blog and a one-person wiki. 

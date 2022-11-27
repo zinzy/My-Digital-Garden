@@ -1,6 +1,6 @@
 ---
 excerpt: "I study Yiddish in my spare time"
-categories: "Language"
+categories: [Language"
 ---
 ### Further reading
 - Book notes for _[[Colloquial Yiddish]]_

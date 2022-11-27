@@ -1,6 +1,6 @@
 ---
 title: "Ethics"
-categories: "Meta"
+categories: [Meta"
 excerpt: "Information about the policies I have for this website"
 tags:
 - 

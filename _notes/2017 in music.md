@@ -1,6 +1,6 @@
 ---
 title: "2017 in music"
-categories: "Music"
+categories: [Music]
 excerpt: "Baking projects, Europe trips, and a whole lot of Kendrick."
 ---
 I discovered Kendrick Lamar in 2017. I didn't grow up listening to rap, RnB, and other genres I had deemed "too Black for this Black girl". Once I began listening to Kendrick, a new world opened up for me. 

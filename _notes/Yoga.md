@@ -1,5 +1,5 @@
 ---
-categories: "Health"
+categories: [Health"
 excerpt: "I've been a practitioner of yoga for sixteen years now, focusing exclusively on yin and nidra."  
 toc: true
 ---

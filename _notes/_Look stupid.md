@@ -1,6 +1,6 @@
 ---
 title: "Look stupid"
-categories: ""
+categories: [Practices]
 excerpt: ""
 tags:
 - 

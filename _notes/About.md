@@ -1,6 +1,6 @@
 ---
 title: "About"
-categories: "Me"
+categories: [Me]
 excerpt: "I'm Zinzy Waleson, a researcher, designer, and linguist from Amsterdam"
 tags:
 - meta

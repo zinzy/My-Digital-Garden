@@ -1,6 +1,6 @@
 ---
 title: "Gentlemen Prefer Blondes"
-categories: "Titles"
+categories: [Titles"
 excerpt: "Queer-leaning notes on a movie screening"
 tags:
 - Hollywood

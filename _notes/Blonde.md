@@ -1,6 +1,6 @@
 ---
 title: "Blonde"
-categories: "Titles"
+categories: [Titles]
 tags:
 - Film
 - Biopic

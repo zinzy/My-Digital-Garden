@@ -1,6 +1,6 @@
 ---
 title: "Meditation"
-categories: "Health"
+categories: [Health"
 excerpt: "Working notes on my most effective method of self care"
 ---
 I'm a practitioner of meditation. After sporadically meditating whenever I was feeling any type of overwhelm, I've been applying myself to cultivating a better, healthier, more meaningful practice.
