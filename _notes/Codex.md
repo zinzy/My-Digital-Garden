@@ -44,7 +44,7 @@ I'm privileged because:
 - I have close friendships with White people who are fiercely antiracist
 
 ### Chapter: Habits
-- * Yin yoga trains the discomfort muscle
+- [[* Yin yoga trains the discomfort muscle]]
 - Practice yin yoga to train your quietude muscle, and tolerance of discomfort 
 - Wash your face every day, and moisturize properly. 
 - Buy simple black t-shirts and wear one every day
