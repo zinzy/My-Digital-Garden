@@ -76,7 +76,7 @@ I'm privileged because:
 ### Chapter: Culture
 
 ### Society
-- [[$ Connection is the fuel of life]]
+- [[* Connection is the fuel of life]]
 - To learn about a group of people, look at the stories they tell themselves and others
 
 #### Media
@@ -95,7 +95,7 @@ I'm privileged because:
 ### Chapter: Health
 
 ### Chapter: Learning
-- [[$ Discomfort is where growth happens]]
+- [[* Discomfort is where growth happens]]
 
 ### Chapter: Work & making
 
