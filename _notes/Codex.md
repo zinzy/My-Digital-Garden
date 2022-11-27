@@ -59,7 +59,7 @@ I'm privileged because:
 ### Chapter: People
 
 #### Strangers
-- People try to do what they think will make the world a better place.
+- [[* People try to do what they think will make the world a better place]].
 - Strangers don't often expect kindness. It can be a spark for a great friendship.
 - Everybody's lives are infinitely complex, vulnerable, precious, and potential, just like yours
 
