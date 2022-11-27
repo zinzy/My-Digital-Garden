@@ -1,6 +1,6 @@
 ---
 title: "Amsterdam"
-category: "Places"
+categories: "Places"
 excerpt: "Since 2015, I've been happy to call Amsterdam, The Netherlands my home."
 ---
 Since 2015, I've been happy to call Amsterdam, The Netherlands my home. My partner Anja and I live in Indische Buurt, a fine and diverse neighborhood. 

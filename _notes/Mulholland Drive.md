@@ -1,6 +1,6 @@
 ---
 title: "Mulholland Drive"
-category: "Titles"
+categories: "Titles"
 tags:
 - Cinema
 - Fiction
