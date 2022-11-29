@@ -9,7 +9,11 @@ tags:
 ---
 Introduced by Michael Bungay Stanier, the seven questions can help people, particularly those in leadership positions, become better at helping others. 
 
-1. What’s on your mind?
+## Seven questions
+
+^2e1f9e
+
+1. What’s on your mind? ^a2fe76
 2. And what else?
 3. What’s the real challenge here for you?
 4. What do you want?
