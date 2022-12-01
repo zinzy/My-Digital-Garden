@@ -2,7 +2,7 @@
 excerpt: "Reading notes"
 categories: [Learning]
 ---
-Currently making my way through _Colloquial Yiddish_.
+Currently making my way through _Colloquial [[Yiddish]]_.
 
 ### Unpolished study notes
 

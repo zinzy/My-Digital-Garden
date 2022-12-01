@@ -2,6 +2,8 @@
 excerpt: "An orthographic overview of Yiddish"
 categories: [Language]
 ---
+This overview exists so that I can pull it up while studying [[Yiddish]]. If you are interested in more information on Yiddish orthography, please know that there is a [Wikipedia](https://en.wikipedia.org/wiki/Yiddish_orthography) on it.
+
 <table class="breakout alphabet">
     <thead>
         <td>Letter</td>

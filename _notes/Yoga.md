@@ -1,7 +1,5 @@
 ---
-categories: [Health]
-excerpt: "I've been a practitioner of yoga for sixteen years now, focusing exclusively on yin and nidra."  
-toc: true
+excerpt: "I've been a practitioner of yoga for sixteen years now, focusing exclusively on yin and nidra."
 ---
 I've been a practitioner of yoga for about sixteen years now. I started when I was a freshman in college, in an unpretentious class with middle-aged women tired of their back pains. It was a great, cyclical experience: feeling the calm set into my body during class on Monday, and having it slowly wear off, right in time for the next class. These last few years I've begun concentrating on:
 

@@ -3,7 +3,7 @@ categories: [Health]
 toc: true
 excerpt: "On the experiences I have as I go through recovery"
 ---
-In the name of destigmatization of health issues I decided a while ago that I was going to use this website to write about what it means to have an eating disorder. This page chronicles some of the experiences I have as I go through recovery.
+In the name of destigmatization of [[health]] issues I decided a while ago that I was going to use this website to write about what it means to have an eating disorder. This page chronicles some of the experiences I have as I go through recovery.
 
 ### My history with disordered eating
 My eating disorder has developed in response to a number of (untreated) adverse childhood experiences, which left me feeling powerless, unsafe, and unimportant. The first eating disordered act I remember was at age seven, but there is no time "before my eating disorder". The first time I knew I had an eating disorder was in my early teens. 

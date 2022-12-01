@@ -4,9 +4,6 @@ categories: [Health]
 ---
 A pervasive idea that body shape and physical appearance are not only crucial [[Health]] markers, but also relevant and harmless topics of conversation, praise, and criticism.
 
-
-[[Heal]]
-
 ### Literature notes
 - 
 
