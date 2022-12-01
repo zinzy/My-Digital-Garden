@@ -10,6 +10,8 @@ This space has been around since 2004, in a variety of shapes and under a lot of
 
 What I like about this technique of organizing media is that it allows a practitioner to write (and therefore perhaps think) in a more molecular way. One oft-highlighted benefit of this is that, as time goes on, nodes might be shared across a number of ideas, making the practitioner aware of connections previously unacknowledged. 
 
+Digital gardens have been [[Design|designed]] as a form of [[Anti-marketing]], where creators are encouraged to [[* Write for yourself first]].
+
 ### Manifesto
 This is a reminder to myself
 

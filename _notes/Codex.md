@@ -165,7 +165,7 @@ I'm privileged because:
 
 ### Doing things
 *Learning, making, sharing / publishing, productivity*
-- It's good to have one website as your central point of communication with the Internet
+- It's good to have one website as your central point of communication with the [[Internet]]
 
 ### Work
 

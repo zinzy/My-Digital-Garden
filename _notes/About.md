@@ -13,9 +13,9 @@ Hey there, I'm Zinzy. I work at the intersection of research, design, language, 
 - [[Hello]]: in case you need to get in touch with me
 - [[Uses]]: an overview of the products I love
 - [[Why I have a website]]: and why you should make one, too
-- [[Consumption]]: an overview of the things I watch, listen to, and attend
+- [[What I consume]]: an overview of the things I watch, listen to, and attend
 
-I have a great fondness for the creativity, potential, and independence that Internet gives us. My work aims to bring those values to people solving problems at work. I currently manage design at [[Leeruniek]], where we're taking an interdisciplinary approach to sustainable educational data. Before this I spent five years at Airtrade, a market leader in travel technology. I got my start in UX as a freelancer, running my own design studio for eight years.
+I have a great fondness for the creativity, potential, and independence that [[Internet]] gives us. My work aims to bring those values to people solving problems at work. I currently manage design at [[Leeruniek]], where we're taking an interdisciplinary approach to sustainable educational data. Before this I spent five years at Airtrade, a market leader in travel technology. I got my start in UX as a freelancer, running my own design studio for eight years.
 
 ### A little history
 I was born and raised in the South of the Netherlands, in a complex childhood marked by marching bands, an overabundance of food, and question marks about who, amid everybody else, I am.

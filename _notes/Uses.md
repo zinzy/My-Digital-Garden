@@ -24,7 +24,7 @@ Before you dive in, please know that I believe (and tell myself in the mirror th
 - Yogitri ECO Pratyak bolster
 - DoYourYoga half moon meditation pillow
 - YogaTimer
-- (I have an excellent mat that I'm trying to identify on the Internet)
+- (I have an excellent mat that I'm trying to identify on the [[Internet]])
 
 ### Miscellaneous
 - Tangram set

@@ -1,6 +1,6 @@
 ---
 categories: [Internet]
-excerpt: "On how we travel the Internet with our own name"
+excerpt: "On how we travel the [[Internet]] with our own name"
 ---
 - How do I share my creativity and personality online while making sure my presentation is professional?
 - How can I create a holistic representation of myself only that takes anyone and no one as the implied reader?

@@ -11,7 +11,7 @@ tags:
 - 
 
 ### Fleeting notes
-- [[Yin yoga]] trains the [[Tolerance of discomfort]] muscle
+- [[Yin yoga]] as a [[Health|health]] and a [[Spirituality|spiritual]] practice trains the [[Tolerance of discomfort|tolerance of discomfort]] muscle
 
 ### Related concepts
 - 

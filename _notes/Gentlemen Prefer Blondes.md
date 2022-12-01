@@ -12,7 +12,7 @@ tags:
 - Adaptation
 - Gender
 ---
-Part of _Fiction & Science_ series at [[Rialto]], with introduction by [[Roel van den Oever]].
+A [[What I consume|film I watched]] as part of _Fiction & Science_ series at [[Rialto]], with introduction by [[Roel van den Oever]].
 
 ### Introduction
 - Hollywood studio era: 20s to 60s 

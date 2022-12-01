@@ -88,7 +88,7 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 
 ### Collectives
 - [Dan & Richard & You](https://danandrichardandyou.com)
-- [Other Internet](https://otherinter.net)
+- [Other [[Internet]]](https://otherinter.net)
 
 ### Cooking 
 - [Ahead of Thyme](https://www.aheadofthyme.com/)
@@ -112,7 +112,7 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 - [Epic People](https://www.epicpeople.org/)
 
 ### Media
-- [Internet History Podcast](https://www.internethistorypodcast.com)  
+- [[[Internet]] History Podcast](https://www.[[Internet]]historypodcast.com)  
 
 ### Self care
 - [https://curlsandcocoa.com](https://curlsandcocoa.com/)

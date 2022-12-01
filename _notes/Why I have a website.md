@@ -3,20 +3,20 @@ title: "Why I have a website"
 excerpt: "And why you should have one, too"
 tags:
 - IndieWeb
-- Internet
+- [[Internet]]
 - Identity
 - Publishing
 - Writing
 categories: [Internet]
 implied: "People who have never owned a personal website, who have a vague understanding of why anybody would want to, and who are not sure how they'd ever get started. For example, my friend Nienke. Hi Nienke!"
 ---
-Welcome to my home on the Internet. This website was [[Colophon|hand-built]] by me, and I'm the only one publishing things on it. It contains facts about me, what I love, and the work I do, but also working notes on a wide variety of subjects. This is an example of a personal website.
+Welcome to my home on the [[Internet]]. This website was [[Colophon|hand-built]] by me, and I'm the only one publishing things on it. It contains facts about me, what I love, and the work I do, but also working notes on a wide variety of subjects. This is an example of a personal website.
 
 ### You should make a personal website
-You are a citizen of the Internet.[^1] It might be difficult to remember, but the World Wide Web was built for *you*. Built for your adventures, information, freedom, education, entertainment. You're allowed to enjoy yourself here, to share what you're experiencing, and to learn something new.
+You are a citizen of the [[Internet]].[^1] It might be difficult to remember, but the World Wide Web was built for *you*. Built for your adventures, information, freedom, education, entertainment. You're allowed to enjoy yourself here, to share what you're experiencing, and to learn something new.
 
 #### Say what you want
-Your personal website is your corner of the web. Do with it what you want[^2]. Use it to tell your full story: what are you learning about life? How did that new recipe turn out? What are you reading? You are you celebrating, grieving? What are you struggling with? What are you hoping for? Take up space, and tell the Internet all about it. Give us a window into your tiny beautiful life. 
+Your personal website is your corner of the web. Do with it what you want[^2]. Use it to tell your full story: what are you learning about life? How did that new recipe turn out? What are you reading? You are you celebrating, grieving? What are you struggling with? What are you hoping for? Take up space, and tell the [[Internet]] all about it. Give us a window into your tiny beautiful life. 
 
 #### Enjoy your autonomy
 It's great that your friends are all on the social platforms, but why let Zuckerberg decide how you express yourself? Imagine the image-free Instagram post, the 4000-character tweet, the timeline of your favorite songs of the year, accompanied by an essay on why they matter to you. On your website, *you* decide what you put out there. And you can keep it there forever, not until your favorite social app is absorbed by a tech giant.

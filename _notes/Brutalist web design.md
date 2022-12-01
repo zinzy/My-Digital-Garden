@@ -5,7 +5,7 @@ excerpt: ""
 tags:
 - 
 ---
-Brutalist web design is a style of websites that was inspired by brutalist architecture. It often features content presented in browser-native styling, with few alterations. 
+Brutalist web [[design]] is a style of websites that was inspired by brutalist architecture. It often features content presented in browser-native styling, with few alterations. 
 
 Many websites may employ the style, although it should be noted that a large number of websites that look brutalist were created and designed long before the style emerged. 
 
