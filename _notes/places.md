@@ -3,11 +3,11 @@ categories: [Lists]
 excerpt: "Places I've been to or would like to visit"
 ---
 ### Lived in
-- [Amsterdam](/amsterdam), the Netherlands 
-- Eindhoven, the Netherlands 
-- Haarlem, the Netherlands 
+- [[Amsterdam]], the Netherlands 
+- [[Eindhoven]], the Netherlands 
+- [[Haarlem]], the Netherlands 
 - Roermond, the Netherlands
-- Utrecht, the Netherlands
+- [[Utrecht]], the Netherlands
 
 ### Visited internationally
 - Ahmedabad, India
@@ -18,7 +18,7 @@ excerpt: "Places I've been to or would like to visit"
 - London, England
 - Linköping, Sweden
 - Lisbon, Portugal
-- [Paris](/paris), France
+- [[Paris]], France
 - Rouen, France
 - Roubaix, France
 - Warsaw, Poland
@@ -31,8 +31,8 @@ excerpt: "Places I've been to or would like to visit"
 
 ### Want to visit 
 - Ao Island, Japan
-- Columbus, OH, USA
-- Dallas, TX, USA  
+- Columbus, Ohio, USA
+- Dallas, Texas, USA  
 - Dublin, Ireland
 - Kent, England
 - Kyoto, Japan

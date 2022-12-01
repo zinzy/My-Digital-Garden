@@ -12,4 +12,4 @@ A state that develops when I'm so well-exposed to the everyday lives of other pe
 - Perceiving only the highlight reel parts of friends' lives
 
 ## Related
-- [identity in the digital age](/identity-in-the-digital-age)
+- [[Identity in the digital age]]

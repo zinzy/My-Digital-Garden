@@ -1,7 +1,7 @@
 ---
 title: "Now"
 categories: [Me]
-excerpt: ""
+excerpt: "An overview of what I'm up to these days"
 highlight: true
 tags:
 - 

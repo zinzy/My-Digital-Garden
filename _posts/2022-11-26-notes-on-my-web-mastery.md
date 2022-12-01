@@ -19,7 +19,7 @@ Recently, I've been making some great progress with my personal website. While I
 - [Netlify build hook](https://mtsknn.fi/blog/how-to-trigger-daily-netlify-builds-using-github-actions/): every day, Netlify looks for new content and publishes it to my website
 
 ### Why this is great
-- I hold the strong belief that [[Tools don't matter]]. This means, among other things, that I don't like to be limited to using particular platforms or apps to write. I want to see my files in a folder that I can move around. Jekyll allows me to do just this.
+- I hold the strong belief that [[* Tools don't matter]]. This means, among other things, that I don't like to be limited to using particular platforms or apps to write. I want to see my files in a folder that I can move around. Jekyll allows me to do just this.
 - My website is a text-heavy space: most of what you'll find on here is written content. As a knowledge worker, writing is an integral part of my daily life. Many of the things I write are not for public consumption, but they are closely linked to things that *are*. To avoid duplicate content and awkward linking, it was important for me to manage my text files in a single space, one Obsidian vault.
 - I have a tendency to tinker a lot on my website. This can make it so that I spend more time trying out new things and changing the design than I do writing. Having my code base and content separated helps me focus more on writing things that are meaningful to me.
 

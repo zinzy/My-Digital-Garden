@@ -4,7 +4,7 @@ categories: [Info]
 excerpt: "A place to find answers to your questions"
 ---
 ## I'm thinking of moving into UX. Can we chat?
-I'm currently taking a break from extracurricular activities, and so I don't have space on my calendar for mentoring. Check out my [[mentoring]] page to learn more about my availability in the future.
+I'm currently taking a break from extracurricular activities, and so I don't have space on my calendar for mentoring. Check out my [[Mentoring]] page to learn more about my availability in the future.
 
 ---
 

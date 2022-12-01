@@ -91,6 +91,10 @@ I'm privileged because:
 - No political system is flawless, some are worse than others
 - [[* Change requires revolution and evolution]]
 - Ones politics cannot be seen separatedly from ones character and conduct. Sometimes, it's not possible to "engage with someone despite your different views", because of the implications those views have
+
+#### Spirituality
+- Religion is a gorgeously complex creation of humans to communicate with something that does exist but that they will never be able to fathom, harness, or identify
+- [[* The Judeo-Christian tradition is a harmful and unnecessary invention of Christianity]]
 - 
 
 ### Chapter: Health

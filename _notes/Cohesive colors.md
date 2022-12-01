@@ -4,7 +4,7 @@ excerpt: "A design technique"
 ---
 
 # Cohesive colors
-In order to achieve a well-balanced color scheme, Erica Schoonmaker introduced [Cohesive Colors](https://dribbble.com/shots/166246-My-Secret-for-Color-Schemes) in a 2016 Dribbble shot. To ensure that a color scheme doesn't consist of both harsh and soft tones, which usually doesn't work outside of [brutalist design](https://brutalistwebsites.com), she overlays a central color on the others with reduced opacity, and chooses the colors that result from it.
+In order to achieve a well-balanced color scheme, Erica Schoonmaker introduced her [[Design]] technique [Cohesive Colors](https://dribbble.com/shots/166246-My-Secret-for-Color-Schemes) in a 2016 Dribbble shot. To ensure that a color scheme doesn't consist of both harsh and soft tones, which may not work well outside of [[Brutalist web design]], she overlays a central color on the others with reduced opacity, and chooses the colors that result from it.
 
 I've been using this method for years to create and clean up color libraries. 
 

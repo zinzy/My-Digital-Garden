@@ -76,6 +76,7 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 - [https://mrmrs.cc](https://mrmrs.cc/)
 - [http://www.pierrebuttin.com](http://www.pierrebuttin.com/)
 - https://den.dev 
+- https://refinedmind.co/
 
 
 ### Communities

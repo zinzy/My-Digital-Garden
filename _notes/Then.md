@@ -1,7 +1,7 @@
 ---
 title: "Then"
 categories: [Me]
-excerpt: ""
+excerpt: "An archive of my Now page"
 tags:
 - 
 ---
@@ -11,7 +11,7 @@ An archive of my [[Now]] page.
 
 - I’m interested to read some of Germaine Greer’s work. I like how, beyond the initial shock value of things she has said, there is a very blatant truth that I’m happy to engage with.
 
-- After six weeks in the Algarve to continue recovering from an [[Eating disorder]], I’m readjusting to bustling Amsterdam and establishing new [[habits]].
+- After six weeks in the Algarve to continue recovering from an [[Eating disorder]], I’m readjusting to bustling Amsterdam and establishing new [[Habits]].
 
 - Before Portugal, I was notoriously rubbish at dreaming about what I'd want my life to be like. I've returned with a renewed sense of agency, and a small-but-growing [[bucket list]] to boot.
 

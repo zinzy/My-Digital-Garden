@@ -2,11 +2,11 @@
 title: "Quiet queer spaces"
 excerpt: "Thoughts on the gap that I am trying to fill as a queer facilitator"
 categories: [Queerdom]
-date: "2018-12-02"
+date: 2018-12-02
 tags:
  - facilitation
  - queerdom
---- 
+---
 Taking inspiration from Hannah Gadsby's ideas on (neuro)diversity in the queer community, I've come to understand that the audience for the queer facilitation I do can be best identified as The Quiet Gays: 
 
 <div class="ratio ratio-16x9">

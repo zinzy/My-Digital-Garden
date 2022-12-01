@@ -2,7 +2,9 @@
 categories: [Society]
 excerpt: "Can we ever do it right? Probably not."
 ---
-My partner Anja is currently enrolled in a M.Ed program with a focus on multimedia storytelling, and one of her papers dealt with the inclusion of race in the storylines of a popular television series. While the book exiles non-white men and women to the margins of the margins, the television series incorporates many different racial backgrounds in the series. This, Anja argued, creates the false understanding that the series is inclusive, and more inclusive than the book, at that. Through a close reading she argued that the opposite is the case: White narratives and voices still dominate the plot.
+Racism is erased when a story covertly or overtly neglects to incorporate into its context issues related to ethnicity, bias, discrimination, or racism. It is another example of why [[Representation]] of (historically) oppressed groups with (contextual) minority status[^1] is both important and difficult. 
+
+My partner is currently enrolled in a M.Ed program with a focus on multimedia storytelling, and one of her papers dealt with the inclusion of race in the storylines of a popular television series. While the book exiles non-white men and women to the margins of the margins, the television series incorporates many different racial backgrounds in the series. This, she argued, creates the false understanding that the series is inclusive, and more inclusive than the book, at that. Through a close reading she argued that the opposite is the case: White narratives and voices still dominate the plot.
 
 Thanks to the many conversations we've had on the topic, I now, too, have a keen eye for seeing this habit in many pieces of fictions I read or watch. This is a humble attempt to track some of this.
 
@@ -14,7 +16,13 @@ My own perspectives and realities as a child of color played an insignificant pa
 I experience first-hand what it means to not see yourself reflected in the things that the world tells us matter most. Because of my background in literary studies, I enjoy using literary theory to make sense of the world around me. Studying fiction through the lens of intersectionality and critical race theory helps me better take care of myself.
 
 ### Terminology
-You'll find that I quite intentionally use the term "ethnicity" where other people might use "race". I think we should [[stop saying race]].
+You'll find that I quite intentionally use the term "ethnicity" where other people might use "race". I think we should [[Stop saying race]].
 
 ### Examples
 - I've been thinking about [[Erasing racism in riverdale|erasing racism in 'Riverdale']]
+- Racism is largely erased in Netflix's _Sex Education_
+
+### Related
+- [[Racial reconciliation fantasy]]
+
+[^1]: I use this phrasing rather than "minorities" to honor a growing number of people using the term "global majority".

@@ -15,8 +15,8 @@ Rocky road ahead! For now, this page is just a collection of links
 - [[Digital garden]]
 - [[Identity in the digital age]]
 - [[Anti-marketing]]
-- [[overconnectedness]]
-- [[second brain]]
+- [[Overconnectedness]]
+- [[Second brain]]
 
 ### Reading
 - http://www.socsci.uci.edu/~tboellst/bio/da19.pdf

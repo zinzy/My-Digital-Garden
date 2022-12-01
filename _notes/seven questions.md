@@ -21,4 +21,4 @@ Introduced by Michael Bungay Stanier, the seven questions can help people, parti
 6. If you’re saying yes to this, what are you saying no to?
 7. What was most useful for you?
 
-I first learned about this concept while listening to [[dare-to-lead-the-advice-trap|"Dare to Lead"'s episode on the advice trap']].
+I first learned about this concept while listening to [*Dare to Lead*'s episode on the advice trap](https://brenebrown.com/podcast/brene-with-michael-bungay-stanier-on-the-advice-trap-and-staying-curious-just-a-little-longer/).
