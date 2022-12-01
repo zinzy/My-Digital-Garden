@@ -27,7 +27,7 @@ This is a personal website, designed, built, and maintained by [[About|me, Zinzy
 - Optional POSSE to Mastodon
 - Frontmatter Boolean for Implied Reader, TBC and others
 - Tooltips for external/internal links
-- [Automatically add tag and category pages ](https://github.com/sverrirs/jekyll-paginate-v2)
+- ~~[Automatically add tag and category pages ](https://github.com/sverrirs/jekyll-paginate-v2)~~ (opted for densely-linked materials)
 
 ### Changelog
 - 2022-11-19:
