@@ -1,5 +1,4 @@
 ---
-title: "Meditation"
 categories: [Health]
 excerpt: "Working notes on my most effective method of self care"
 ---

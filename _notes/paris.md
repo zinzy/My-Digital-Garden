@@ -1,5 +1,4 @@
 ---
-title: "Paris"
 excerpt: "Things I like about the city I love to visit"
 date: "2018-10-02"
 categories: [Places]

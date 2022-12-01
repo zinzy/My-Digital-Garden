@@ -1,5 +1,4 @@
 ---
-title: "Why I have a website"
 excerpt: "And why you should have one, too"
 tags:
 - IndieWeb

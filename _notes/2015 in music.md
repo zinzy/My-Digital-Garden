@@ -1,5 +1,4 @@
 ---
-title: "2015 in music"
 categories: [Music]
 excerpt: "In a year of big changes, tasty turbulence, not-quite-adult decisions, and lots of boozy dancing, these are the songs that best fit the score."
 ---

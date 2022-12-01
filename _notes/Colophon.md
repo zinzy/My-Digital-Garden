@@ -1,5 +1,4 @@
 ---
-title: "Colophon"
 excerpt: "Notes on how, where, and why this website is made."
 categories: [Meta]
 ---

@@ -1,5 +1,4 @@
 ---
-title: "2019 in music"
 categories: [Music]
 excerpt: "The soundtrack of a year"
 ---

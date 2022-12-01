@@ -1,5 +1,4 @@
 ---
-title: "Yin yoga"
 excerpt: "A slow-paced style of yoga that consists of mild poses held for a longer period of time"
 categories: [Health]
 ---

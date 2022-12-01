@@ -1,5 +1,4 @@
 ---
-title: "Do the thing right"
 categories: [Practices]
 excerpt: ""
 tags:

@@ -1,5 +1,4 @@
 ---
-title: "Ethics"
 categories: [Meta]
 excerpt: "Information about the policies I have for this website"
 tags:

@@ -1,5 +1,4 @@
 ---
-title: "2018 in music"
 categories: [Music]
 excerpt: "At the end of the day, 2018 was all about the sound of queerdom."
 ---

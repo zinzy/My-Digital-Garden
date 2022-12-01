@@ -1,5 +1,4 @@
 ---
-title: "Brutalist web design"
 categories: [Design]
 excerpt: ""
 tags:

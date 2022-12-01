@@ -1,5 +1,4 @@
 ---
-title: "The Complete Guide to Yin Yoga"
 auteur: "Bernie Clark"
 publicatiedatum: 2019
 isbn: 9780968766583

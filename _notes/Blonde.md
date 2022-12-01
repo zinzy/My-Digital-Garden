@@ -1,5 +1,4 @@
 ---
-title: "Blonde"
 categories: [Titles]
 tags:
 - Film

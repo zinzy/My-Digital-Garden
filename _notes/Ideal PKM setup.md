@@ -1,5 +1,4 @@
 ---
-title: "Ideal PKM setup"
 excerpt: "Running notes on how I like to manage the words I write"
 categories: [Knowledge work]
 ---

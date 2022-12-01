@@ -1,5 +1,4 @@
 ---
-title: "Then"
 categories: [Me]
 excerpt: "An archive of my Now page"
 tags:

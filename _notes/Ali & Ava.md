@@ -1,5 +1,4 @@
 ---
-title: "Ali & Ava"
 categories: [Titles]
 excerpt: "A quietly brilliant story of love in Yorkshire and the Humber"
 ---

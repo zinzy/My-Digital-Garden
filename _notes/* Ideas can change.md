@@ -1,5 +1,4 @@
 ---
-title: "Ideas can change"
 excerpt: "... and that's exactly what makes them so great"
 categories: [Evergreen]
 ---

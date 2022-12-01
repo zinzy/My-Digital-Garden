@@ -1,5 +1,4 @@
 ---
-title: "Codex"
 excerpt: "A growing record of the things I believe"
 categories: [Me]
 ---
@@ -100,7 +99,7 @@ I'm privileged because:
 ### Chapter: Health
 
 ### Chapter: Learning
-- [[* Discomfort is where growth happens]]
+- [[* Discomfort is sometimes where growth happens]]
 
 ### Chapter: Work & making
 

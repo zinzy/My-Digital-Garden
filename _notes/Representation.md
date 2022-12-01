@@ -1,5 +1,4 @@
 ---
-title: "Representation"
 categories: [Society]
 excerpt: ""
 tags:

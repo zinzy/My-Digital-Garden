@@ -1,5 +1,4 @@
 ---
-title: "Men's liberation movement"
 excerpt: "The men's liberation movement came on my radar in recent years as a healthy way of approaching the topic of The Patriarchy™"
 date: "2021-02-21"
 categories: [Society]

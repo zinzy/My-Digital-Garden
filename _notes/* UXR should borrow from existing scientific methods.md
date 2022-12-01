@@ -1,5 +1,4 @@
 ---
-title: "* UXR should borrow from existing scientific methods"
 date: 2022-11-27
 excerpt: ""
 categories: [Design]

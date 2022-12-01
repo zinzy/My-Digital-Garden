@@ -1,5 +1,4 @@
 ---
-title: "Tool vibes"
 categories: [Patterns]
 excerpt: "A very particular kind of FOMO"
 tags:

@@ -1,5 +1,4 @@
 ---
-title: "* Yin yoga trains the discomfort muscle"
 date: 2022-12-01
 excerpt: ""
 categories: []

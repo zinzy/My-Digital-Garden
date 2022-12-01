@@ -1,5 +1,4 @@
 ---
-title: "Amsterdam"
 categories: [Places]
 excerpt: "Since 2015, I've been happy to call Amsterdam, The Netherlands my home."
 ---

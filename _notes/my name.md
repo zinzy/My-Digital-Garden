@@ -1,5 +1,4 @@
 ---
-title: "My name"
 excerpt: "The origin of my name"
 categories: [Info]
 date: "2018-03-11"

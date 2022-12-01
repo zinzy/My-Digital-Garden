@@ -1,5 +1,4 @@
 ---
-title: "Watched in 2022"
 categories: [Media]
 excerpt: "The shows and feature films I watched in 2022"
 ---

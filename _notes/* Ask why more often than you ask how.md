@@ -1,5 +1,4 @@
 ---
-title: "* Ask why more often than you ask how"
 categories: [Practice]
 excerpt: ""
 tags:

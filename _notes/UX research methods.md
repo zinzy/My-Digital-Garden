@@ -1,5 +1,4 @@
 ---
-title: "UX research methods"
 categories: [Practices]
 excerpt: ""
 tags:

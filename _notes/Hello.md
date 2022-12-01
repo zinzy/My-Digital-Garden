@@ -1,5 +1,4 @@
 ---
-title: "Hello"
 categories: [Me]
 excerpt: ""
 tags:

@@ -7,14 +7,11 @@ pile: true
 
 ## 2022
 
-### To do
-- Attend Hannah Gadsby's _Bodyworks_
-- [Mastodon en het federatieve Internet](https://waag.org/nl/event/mastodon-en-het-federatieve-Internet/)
-
 ### Attended
 - _All the Beauty and the Bloodshed_ screening as part of IDFA
 - [[Breaking Black Stereotypes]]
 - [[No Intermission]]
+- Hannah Gadsby's _[[Body of Work]]_
 
 ### Watched
 - [[Ali & Ava]]

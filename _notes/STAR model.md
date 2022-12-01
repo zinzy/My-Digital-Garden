@@ -1,5 +1,4 @@
 ---
-title: "STAR model"
 categories: [Practice]
 excerpt: "A technique for presenting work achievements"
 tags:

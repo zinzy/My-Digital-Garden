@@ -1,5 +1,4 @@
 ---
-title: "Tolerance of discomfort"
 date: 2022-12-01
 excerpt: ""
 categories: []

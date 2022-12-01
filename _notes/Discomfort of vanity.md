@@ -1,5 +1,4 @@
 ---
-title: "Discomfort of vanity"
 categories: [Design]
 excerpt: ""
 tags:

@@ -1,5 +1,4 @@
 ---
-title: "Gentlemen Prefer Blondes"
 categories: [Titles]
 excerpt: "Queer-leaning notes on a movie screening"
 tags:

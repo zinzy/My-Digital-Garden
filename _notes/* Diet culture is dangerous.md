@@ -1,5 +1,4 @@
 ---
-title: "* Diet culture is dangerous"
 excerpt: "Notes on the application and dangers from the land of alternative facts"
 categories: [Health]
 ---

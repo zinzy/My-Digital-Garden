@@ -1,5 +1,4 @@
 ---
-title: "Stop saying 'race'"
 excerpt: "Why I no longer use the word 'race'"
 categories: [Society]
 date: "2021-05-28"

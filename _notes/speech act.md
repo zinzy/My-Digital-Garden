@@ -1,5 +1,4 @@
 ---
-title: "Speech act"
 excerpt: "Doing things with words"
 categories: [Language]
 growthStage: "Seedling"

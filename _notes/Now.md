@@ -1,5 +1,4 @@
 ---
-title: "Now"
 categories: [Me]
 excerpt: "An overview of what I'm up to these days"
 highlight: true

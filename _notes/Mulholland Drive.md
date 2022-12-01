@@ -1,5 +1,4 @@
 ---
-title: "Mulholland Drive"
 categories: [Titles]
 tags:
 - Cinema

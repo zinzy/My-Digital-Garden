@@ -1,5 +1,4 @@
 ---
-title: "2017 in music"
 categories: [Music]
 excerpt: "Baking projects, Europe trips, and a whole lot of Kendrick."
 ---

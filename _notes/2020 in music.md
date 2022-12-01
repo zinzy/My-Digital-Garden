@@ -1,5 +1,4 @@
 ---
-title: "2020 in music"
 categories: [Music]
 excerpt: "The soundtrack of a year with Covid"
 ---

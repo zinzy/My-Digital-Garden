@@ -1,5 +1,4 @@
 ---
-title: "People not users"
 categories: [Design]
 excerpt: "Thoughts on how to treat people like people"
 tags:

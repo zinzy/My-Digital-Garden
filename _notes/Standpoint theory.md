@@ -1,5 +1,4 @@
 ---
-title: "Standpoint Theory" 
 excerpt: "Challenging the misconception of objectivity and scientific neutrality."
 categories: [Society]
 date: "2015-07-23"

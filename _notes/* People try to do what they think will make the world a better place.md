@@ -1,5 +1,4 @@
 ---
-title: "* People try to do what they think will make the world a better place"
 date: 2022-11-27
 excerpt: ""
 categories: []

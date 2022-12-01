@@ -1,5 +1,4 @@
 ---
-title: "* Tools don't matter"
 excerpt: "With perpetual access to The Next Best Thing, I've found it helpful to remind myself that staying flexible around technology is a blessing."
 categories: [Knowledge work]
 ---
