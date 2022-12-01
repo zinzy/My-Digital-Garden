@@ -1,24 +1,5 @@
 ---
 title: "Spirituality"
-date: 2022-11-30
-excerpt: ""
+excerpt: "Collection of notes on theology, religion, spiritual, and more"
 pile: true
-categories: []
-tags:
--
 ---
-
-### Literature notes
-- 
-
-### Fleeting notes
-- 
-
-### Related concepts
-- 
-
-### Branches
-- 
-
-### Further reading
-- 
