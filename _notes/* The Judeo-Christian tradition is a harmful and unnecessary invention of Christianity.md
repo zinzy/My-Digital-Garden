@@ -1,3 +1,11 @@
+---
+title: "* The Judeo-Christian tradition is a harmful and unnecessary invention of Christianity"
+date: 2022-12-01
+excerpt: ""
+categories: []
+tags:
+-
+---
 
 ### Literature notes
 - 

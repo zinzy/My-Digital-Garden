@@ -1,3 +1,11 @@
+---
+title: "* We laugh at those brave enough to do the things we fear"
+date: 2022-12-01
+excerpt: ""
+categories: []
+tags:
+-
+---
 
 ### Literature notes
 - 

@@ -1,4 +1,11 @@
-
+---
+title: "* Change requires revolution and evolution"
+date: 2022-12-01
+excerpt: ""
+categories: []
+tags:
+-
+---
 ### Literature notes
 - 
 

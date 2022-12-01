@@ -1,5 +1,5 @@
 ---
-title: "* Yin yoga trains the discomfort muscle"
+title: "* One of my most important pursuits is to see what water is"
 date: 2022-12-01
 excerpt: ""
 categories: []
@@ -11,7 +11,7 @@ tags:
 - 
 
 ### Fleeting notes
-- [[Yin yoga]] trains the [[Tolerance of discomfort]] muscle
+- 
 
 ### Related concepts
 - 

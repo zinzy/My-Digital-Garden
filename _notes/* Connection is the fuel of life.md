@@ -1,5 +1,5 @@
 ---
-title: "$ Connection is the fuel of life"
+title: "* Connection is the fuel of life"
 date: 2022-11-27
 excerpt: ""
 category: ""
