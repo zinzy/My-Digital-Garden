@@ -1,6 +1,7 @@
 ---
 categories: [Lists]
 excerpt: "Places I've been to or would like to visit"
+pile: true
 ---
 ### Lived in
 - [[Amsterdam]], the Netherlands 

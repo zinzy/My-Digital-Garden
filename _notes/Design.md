@@ -1,6 +1,7 @@
 ---
 title: "Design"
-excerpt: ""
+excerpt: "A catcher's mit for various things I've written and learned about design."
+pile: true
 tags:
 -
 ---

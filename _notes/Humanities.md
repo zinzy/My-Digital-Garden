@@ -1,6 +1,7 @@
 ---
 title: "Humanities"
 excerpt: ""
+pile: true
 tags:
 -
 ---

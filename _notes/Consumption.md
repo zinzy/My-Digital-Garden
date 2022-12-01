@@ -2,6 +2,7 @@
 categories: [Media]
 excerpt: "A collection of things I have attended, read, or watched"
 highlight: true
+pile: true
 ---
 
 ## 2022
