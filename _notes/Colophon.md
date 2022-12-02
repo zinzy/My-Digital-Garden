@@ -20,6 +20,9 @@ This is a personal website, designed, built, and maintained by [[About|me, Zinzy
 - I believe in the idea of a singular personal website, containing details on personal and professional matters. 
 - I believe in thinking in public, and having it be an act of [[Anti-marketing]]. I work to make this a comfortable space where I feel no pressure to be smart, funny, insightful or anything else that I am not on a permanent basis. 
 
+### Copyright
+Unless otherwise stated, everything on this website is licensed under [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
 ### To do on this website
 - Proper case handling of note titles
 - https://www.a11ywebsites.com/about/
