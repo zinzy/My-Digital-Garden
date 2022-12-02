@@ -38,3 +38,4 @@ This is a personal website, designed, built, and maintained by [[About|me, Zinzy
 	- Added Netlify hook to check content submodule for updates on build
 - 2022-11-26:
 	- Initiated singular Obsidian vault that automatically pushes relevant content to Netlify
+- 2022-12-02: got incoming webmentions fired up 🥳
