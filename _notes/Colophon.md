@@ -27,6 +27,7 @@ This is a personal website, designed, built, and maintained by [[About|me, Zinzy
 - Frontmatter Boolean for Implied Reader, TBC and others
 - Tooltips for external/internal links
 - ~~[Automatically add tag and category pages ](https://github.com/sverrirs/jekyll-paginate-v2)~~ (opted for densely-linked materials)
+- Add a [humans.txt file](https://harrycresswell.com/writing/web-for-humans/)
 
 ### Changelog
 - 2022-11-19:
