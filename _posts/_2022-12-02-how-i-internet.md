@@ -6,9 +6,10 @@ tags:
 ---
 Inspired by [Simone Silvestroni](https://simonesilvestroni.com/blog/how-i-use-internet/) in a [[Reverse tag]] (check Simone's piece for the rest of the chain), I'm sharing how I use the Internet in my life.
 
-Despite my work in IT, I'm known as Grandma Tech at home: I struggle to make efficient use of new developments in digital technology, and instead I tend to cling to habits. 
+Despite my work in IT, I'm known as Grandma Tech at home: I struggle to make efficient use of new developments in digital technology, and instead I tend to cling to habits established long ago.
 
 ### Reading
+I have never, for the life of me, been successful at managing an RSS reader. I've set one up countless times, even had a paid subscription to Feedly to calm my nerves after Google Reader was decommissioned (which I hadn't been using to begin with).
 
 #### Personal websites
 
