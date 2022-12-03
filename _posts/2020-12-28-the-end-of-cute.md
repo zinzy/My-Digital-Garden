@@ -1,6 +1,11 @@
 ---
 date: 2020-12-28
 title: "The end of cute"
+tags:
+- Queerdom
+- Pandemic
+- Poem
+- Addiction
 ---  
 I have a friend  
 who is so mad  

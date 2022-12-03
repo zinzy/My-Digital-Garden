@@ -2,6 +2,15 @@
 title: "Family, or notes from the battlefield"
 layout: post 
 date: 2021-01-01 
+tags:
+- Catholicism
+- Queerdom
+- Poem
+- Bible
+- Scripture reflection
+- Christmas
+- Holidays
+- Homophobia
 ---
 As soon as she hands you the gift  
 you know it’s another one  

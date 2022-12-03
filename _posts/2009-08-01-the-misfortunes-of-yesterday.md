@@ -5,6 +5,10 @@ edited: "I love the opinions I had on the subject matter below back in 2009. Ple
 tags:
 - Queerdom
 - Pride Week
+- Homophobia
+- Discrimination
+- Multiculturalism
+- Eindhoven
 ---
 It's Gay Pride today. Yesterday, as N and I were on our way to the cinema, somebody yelled "DYKES!" at us.
 

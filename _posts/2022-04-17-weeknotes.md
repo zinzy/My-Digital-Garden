@@ -2,11 +2,16 @@
 title: "Weeknotes for week 15, 2022"
 date: 2022-04-17
 tags:
-- weeknotes
+- Weeknotes
+- Babies
+- Food
+- Friends
+- Web development
+- IndieWeb
 ---
 Brushing my teeth on Friday morning, I think about the weekend ahead, secretly complaining that my social engagements will keep me from getting the rest I need. Then I remember Easter Monday. The true marker of my mid-thirties is the excitement I feel at the prospect of a bed, and nothing but it.
 
-I hold  a baby this week, one of my favorite ones. His face has two states that exist simultaneously: the one of utter shock and surprise only newborns can have, and the one that reminds you that babies know _everything_ about the world and forget it as soon as they start to speak. He laughs when I bop his nose, although I quickly learn that the force with which I bop Anja's adult nose shan't be applied here. 
+I hold a baby this week, one of my favorite ones. His face has two states that exist simultaneously: the one of utter shock and surprise only newborns can have, and the one that reminds you that babies know _everything_ about the world and forget it as soon as they start to speak. He laughs when I bop his nose, although I quickly learn that the force with which I bop Anja's adult nose shan't be applied here. 
 
 There's a French bakery in Amsterdam that I visit on Wednesday with my colleague Ruby. Since their actual oven is somewhere else, I wonder if the shop even calls itself a bakery. After all, French standards would forbid it. The caramel éclair reminds me of that time at [Un Dimanche à Paris](https://www.un-dimanche-a-paris.com/), a high I've been chasing since mid-2018. The bread has been in the window too long. I ask if they have plastic bags, and I'm told no. I say I think that should be illegal in bakeries. 
 

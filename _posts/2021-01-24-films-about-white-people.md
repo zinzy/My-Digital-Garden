@@ -1,6 +1,12 @@
 ---
 date: 2021-01-24
 title: "Films about White people"
+tags:
+- Poem
+- Being Black
+- Racism
+- Television
+- Cinema
 ---  
 Sometimes I  
 feel that I am  

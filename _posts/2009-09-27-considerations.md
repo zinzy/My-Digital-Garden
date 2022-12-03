@@ -2,7 +2,11 @@
 title: "Considerations"
 date: 2009-09-27
 tags:
-- 
+- Blogging
+- Writing
+- Meta
+- Eindhoven
+- University
 ---
 It was indeed great while it lasted, until about three weeks ago. Churning out little posts, coming up with fun tidbits, roaming the streets of [[Eindhoven]] with a little noteback. Getting feedback. Compliments. Your mother's cousins' daughters' coworkers are reading your blog. And then university life begins. And there is time for nothing.
 
