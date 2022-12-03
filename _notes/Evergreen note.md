@@ -1,5 +1,5 @@
 ---
-title: "Evergreen notes"
+title: "Evergreen note"
 date: 2022-11-26
 excerpt: "A form of learning through writing"
 category: ""
