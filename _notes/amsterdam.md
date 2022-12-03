@@ -29,6 +29,7 @@ Since 2015, I've been happy to call Amsterdam, The Netherlands my home. My partn
 - [Slagerij De Leeuw](https://www.slagerijdeleeuw.nl), butcher
 - [Van Avezaath Beune](https://vanavezaath-beune.nl), patisserie
 - [Vishandel Tel](https://www.vishandeltel.nl/viswinkels-tel/viswinkel-tel-amsterdam.html), seafood
+- [Hoi Tin](https://www.hoitin.nl/), Chinese
 
 ### Coffee spots and cafes
 - [Coffee Company Javaplein](https://coffeecompany.nl/locations/javaplein-14/)
