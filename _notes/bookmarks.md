@@ -22,6 +22,7 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 ### Directories
 - https://ooh.directory/
 - [https://blogscroll.com](https://blogscroll.com/)
+- [https://blogroll.org](https://blogroll.org/)
 
 ### Education
 - [Fawaka Wereldburgerschap](https://www.fawakawereldburgerschap.nl/)
