@@ -23,6 +23,9 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 - https://ooh.directory/
 - [https://blogscroll.com](https://blogscroll.com/)
 
+### Education
+- [Fawaka Wereldburgerschap](https://www.fawakawereldburgerschap.nl/)
+- [Educulture](https://www.educulture.store/)
 
 ### Crafts
 - [Needle 'n Thread](https://www.needlenthread.com/tips-techniques#tntlessons)

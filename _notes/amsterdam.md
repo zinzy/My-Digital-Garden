@@ -12,6 +12,7 @@ Since 2015, I've been happy to call Amsterdam, The Netherlands my home. My partn
 - De Balkonie, plants
 - Duikelman, cooking supplies
 - [Java Bookshop](http://www.javabookshop.nl)
+- [Educulture](https://www.educulture.store/)
 
 ### Lunch & dining
 - The Cottage
