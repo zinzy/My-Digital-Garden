@@ -14,4 +14,5 @@ This page is part of Derek Sivers' [Now](https://nownownow.com/about) movement. 
 ### What I'm exploring
 - History of shaming
 - Medieval cussing
+- Restorative justice, calling in
 
