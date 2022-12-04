@@ -118,3 +118,5 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 - https://refinedmind.co/
 - https://cristobal.space/
 - https://manuelmoreale.com/
+- https://rachelandrew.co.uk/
+- https://www.dandevri.es/

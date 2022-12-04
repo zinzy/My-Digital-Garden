@@ -14,11 +14,14 @@ This is a personal website, designed, built, and maintained by [[About|me, Zinzy
 - This website is built in [Jekyll](https://jekyllrb.com/), a flat-file content management system I've been using for years. I like my familiarity with the platform, as well as the light-weight nature of flat-file systems.
 - I've taken [Maxime Vaillancourt](https://github.com/maximevaillancourt/digital-garden-jekyll-template) digital garden template for Jekyll as my starting point. I continue to change it on an almost daily basis.
 - The font you're looking at is whatever is native to your operating system.
-- There are a few [[2022-11-26-notes-on-my-web-mastery|things]] I use to keep things running smoothly. 
+- There are a few [[2022-11-26-notes-on-my-web-mastery|things]] I use to keep things running smoothly.
 
 ### Philosophical considerations 
 - I believe in the idea of a singular personal website, containing details on personal and professional matters. 
 - I believe in thinking in public, and having it be an act of [[Anti-marketing]]. I work to make this a comfortable space where I feel no pressure to be smart, funny, insightful or anything else that I am not on a permanent basis. 
+
+### Thanks
+In making this website I was inspired and helped by a wide variety of people.
 
 ### Copyright
 Unless otherwise stated, everything on this website is licensed under [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
@@ -26,11 +29,10 @@ Unless otherwise stated, everything on this website is licensed under [Creative 
 ### To do on this website
 - Proper case handling of note titles
 - https://www.a11ywebsites.com/about/
-- Optional POSSE to Mastodon
+- ~~Optional POSSE to Mastodon~~ (doesn't work with my [[Slow web]] approach)
 - Frontmatter Boolean for Implied Reader, TBC and others
 - Tooltips for external/internal links
 - ~~[Automatically add tag and category pages ](https://github.com/sverrirs/jekyll-paginate-v2)~~ (opted for densely-linked materials)
-- Add a [humans.txt file](https://harrycresswell.com/writing/web-for-humans/)
 
 ### Changelog
 - 2022-11-19:
@@ -43,3 +45,5 @@ Unless otherwise stated, everything on this website is licensed under [Creative 
 - 2022-11-26:
 	- Initiated singular Obsidian vault that automatically pushes relevant content to Netlify
 - 2022-12-02: got incoming webmentions fired up 🥳
+- 2022-12-02: added [styled RSS feed](https://www.zinzy.website/feed.xml)
+- 2022-12-04: added [humans.txt](humans.txt)

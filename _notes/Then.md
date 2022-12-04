@@ -6,6 +6,13 @@ tags:
 ---
 An archive of my [[Now]] page.
 
+### November 2022
+
+- I'm back at work [[Leeruniek]]. After some time spent ruthlessly prioritizing my health, I'm excited to get my hands dirty again. Returning to [[Design]] work feels like a warmth bath.
+- Enjoying Amsterdam's cultural opportunities by attending some fun events. Check my [[What I consume]] page for details.
+- I continue working hard to better manage my health (predominantly my [[Eating disorder]]), which takes a lot of patience, faith, and guts.
+- I'm invested in my [[Yoga]] and [[Meditation]] practice
+
 ### October 2022
 
 - I’m interested to read some of Germaine Greer’s work. I like how, beyond the initial shock value of things she has said, there is a very blatant truth that I’m happy to engage with.
