@@ -10,13 +10,13 @@ Currently I manage UX at [[Leeruniek]], where we're taking an interdisciplinary 
 
 ### My work experience
 - **Leeruniek (2020 - now):** I manage UX at this edtech startup
-- **Airtrade (2015 - 2020):** I led design on a large, industry-leading suit of travel booking and management platforms, and built a design and research practice from the ground up
+- **Airtrade (2015 - 2020):** I led design on a large, industry-leading suite of travel booking and management platforms, and built a design and research practice from the ground up
 - **Studio Zinzy (2007 - 2015):** I did front-end development and design for companies, organizations, and individuals in journalism, health care, academia, arts, travel, and entertainment
 
 ### What I focus on
 
 - **Mentoring:** what I like best about my job is helping other designers flourish in their field. 
-- **Design and Research Ops:** I work to properly embed design into the entire product development cycle. In practice, this means advocating for designers, and giving them the right tools to ask and answers the right questions at the right time.
+- **Design and Research Ops:** I work to properly embed design into the entire product development cycle. In practice, this means advocating for designers, and giving them the right tools to ask and answer the right questions at the right time.
 - **Humane technology:** I'm lucky to work at a company that values ethics over profit, and I do my best to contribute solutions that make the world a better place 
 
 ### Work samples
