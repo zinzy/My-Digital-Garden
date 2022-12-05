@@ -13,7 +13,7 @@ tags:
 Hey there, I'm Zinzy. I work at the intersection of research, design, language, and strategy, which mostly means I like a good story. Thank you for visiting my website.
 
 ### You may be interested in
-- [[Public/_notes/Now]]: learn about what's keeping me busy these days
+- [[Now]]: about what's keeping me busy these days
 - [[Hello]]: in case you need to get in touch with me
 - [[Uses]]: an overview of the products I love
 - [[Why I have a website]]: and why you should make one, too
