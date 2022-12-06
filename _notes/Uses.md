@@ -31,7 +31,6 @@ Before you dive in, please know that I believe (and tell myself in the mirror th
 - [BetterSleep](https://www.bettersleep.com/): I've been using this app since it was still called Relax Melodies. As someone who [hears things loudly](https://en.wikipedia.org/wiki/Hyperacusis), I've been able to significantly improve my experiences in the outside world. I love the fact that I can mix together various sounds.
 - Obsidian
 - Rectangle
-- Speechify
 
 ### Miscellaneous
 - Tangram set
