@@ -28,8 +28,7 @@ If we don't challenge ourselves, however, it's easy to get lost.
 
 > Understanding users helps us to the thing right, understanding people helps us do the right thing.
 
-
-![](https://res.cloudinary.com/dbi2zounq/image/upload/c_scale,w_700/v1668937116/me/2022-11-20-jon-bell-twitter_viniyo.png)
+![A screenshot of a Mastodon message sent by ex-Twitter designer Jon Bell, in which he explained how "the data told us we were making a better product."](https://res.cloudinary.com/dbi2zounq/image/upload/c_scale,w_700/v1668937116/me/2022-11-20-jon-bell-twitter_viniyo.png)
 
 ### The language we choose
 
