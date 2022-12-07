@@ -80,11 +80,11 @@ I'm privileged because:
 - To learn about a group of people, look at the stories they tell themselves and others
 
 #### Media
+- Silly archives are crucial tools for cultural analysis
 
 
 #### History
 - History is told by the winner, and sometimes by the loudest
-- 
 
 #### Politics and policies
 - No political system is flawless, some are worse than others
