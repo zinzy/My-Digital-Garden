@@ -3,14 +3,21 @@ categories: [Lists]
 excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I like to visit from time to time"
 ---
 ### Communities
-- [IndieWeb](https://indieweb.org/)
-- [An IndieWeb Webring](https://xn--sr8hvo.ws/)
-- [Yesterweb](https://yesterweb.org/)
-- [https://yarchive.net](https://yarchive.net/)
+
+[IndieWeb](https://indieweb.org/): an initiative and growing network for people who appreciate independence, creativity, and curiosity on the Internet
+
+[An IndieWeb Webring](https://xn--sr8hvo.ws/): a network of people who each have an IndieWeb website
+
+[Yesterweb](https://yesterweb.org/): a community of people who appreciate independent web publishing, combined with experimental and quirky layouts.
+
+[https://yarchive.net](https://yarchive.net/): Usenet archives on a variety of subjects 
+
+- https://blogroll.org/
+- https://sadgrl.online/cyberspace/surf-the-web.html
 
 ### Collectives
-- [Dan & Richard & You](https://danandrichardandyou.com)
-- [Other [[Internet]]](https://otherinter.net)
+- [Dan & Richard & You](https://danandrichardandyou.com): two friends who find creative solutions to your difficult problems
+- [Other Internet](https://otherinter.net): applied research organization studying and building social technology.
 
 ### Cooking 
 - [Ahead of Thyme](https://www.aheadofthyme.com/)

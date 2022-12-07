@@ -4,21 +4,19 @@ categories: [Meta]
 ---
 This is a personal website, designed, built, and maintained by [[About|me, Zinzy Waleson Geene]].
 
-### About this space
-- This website is casual, unpretentious, and unassuming.
-- On here, you'll find soft stances, lived experiences, and critical notes on the things I hold dear. 
-- It's organized as a collection of loosely linked, unfinished thoughts.
-- I use this website to participate in the [[IndieWeb]], a great community of people who enjoy tinkering on personal websites, as well as independence while they do so.
-
 ### Technical details
 - This website is built in [Jekyll](https://jekyllrb.com/), a flat-file content management system I've been using for years. I like my familiarity with the platform, as well as the light-weight nature of flat-file systems.
 - I've taken [Maxime Vaillancourt](https://github.com/maximevaillancourt/digital-garden-jekyll-template) digital garden template for Jekyll as my starting point. I continue to change it on an almost daily basis.
 - The font you're looking at is whatever is native to your operating system.
 - There are a few [[2022-11-26-notes-on-my-web-mastery|things]] I use to keep things running smoothly.
 
-### Philosophical considerations 
+### Philosophical considerations  
+- On here, you'll find soft stances, lived experiences, and critical notes on the things I hold dear. 
+- The website is organized as a collection of loosely linked, unfinished thoughts.
+- I use this website to participate in the [[IndieWeb]], a great community of people who enjoy tinkering on personal websites, as well as independence while they do so.
 - I believe in the idea of a singular personal website, containing details on personal and professional matters. 
 - I believe in thinking in public, and having it be an act of [[Anti-marketing]]. I work to make this a comfortable space where I feel no pressure to be smart, funny, insightful or anything else that I am not on a permanent basis. 
+- This website is casual, unpretentious, and unassuming. I make no attempt at participating in current debate (because I'm slow), and thus you may find references to articles, books, podcasts, or news that is new to me but may be miles behind you.
 
 ### Thanks
 In making this website I was inspired and helped by a wide variety of people.
