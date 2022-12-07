@@ -1,8 +1,6 @@
 ---
 categories: [Patterns]
 excerpt: "A very particular kind of FOMO"
-tags:
-- 
 ---
 Feelings of attachment one may have to a particular tool, physical or digital, in that this tool invokes a longing for a particular way of getting things done. Adjacent to the Portuguese "saudade".
 

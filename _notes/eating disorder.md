@@ -30,7 +30,7 @@ At Human Concern, I was diagnosed with Other Specified Feeding or Eating Disorde
 ### It's not about food
 On here, I'm purposely vague about the eating disordered behaviors that characterize various periods in my life. I do this for two reasons:
 
-1. Inspired by [[* Diet culture is dangerous]], societies often have the incorrect assumption that certain eating disorders are better, more glamorous, or more worthy of awe than others. It's not true, and actually very dangerous for people who are battling eating disorders. I was able to tell myself for years that nothing was wrong with me because at least I didn't have that one particular eating disorder.
+1. Inspired by [[* Diet culture is dangerous]], societies often have the incorrect assumption that certain eating disorders are better, more glamorous, or more worthy of shock or awe than others. It's not true, and actually very dangerous for people who are living with or recovering from an eating disorder. I was able to tell myself for years that nothing was wrong with me because at least I didn't have that one particular eating disorder. [[* All eating disorders are dangerous]]
 2. Eating disorders are not about food
 
 [^1]: Pro-ana refers to content containing references to or depictions of severely underweight people
