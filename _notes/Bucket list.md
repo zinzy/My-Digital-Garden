@@ -13,3 +13,8 @@ excerpt: "A list of things I'd like to have done at some point in my life"
 - Own and play an electric guitar
 - Show artwork in a cafe
 - Make a blouse
+- Make a coat
+- Have a corgi 
+- Make my own tea
+- Rent out a theatre for a viewing of _Titanic_
+- 
