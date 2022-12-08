@@ -3,7 +3,7 @@ title: "3 years sober"
 date: 2021-05-02
 excerpt: 'On May 2, 2018, as we got off the plane from Stockholm, I said calmly to Anja: "I think I may try not drinking for a week or so."'
 tags:
-- Addition
+- Addiction
 - Recovery
 - Life changes
 ---
