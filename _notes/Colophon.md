@@ -6,7 +6,7 @@ This is a personal website, designed, built, and maintained by [[About|me, Zinzy
 
 ### Technical details
 - This website is built in [Jekyll](https://jekyllrb.com/), a flat-file content management system I've been using for years. I like my familiarity with the platform, as well as the light-weight nature of flat-file systems.
-- I've taken [Maxime Vaillancourt](https://github.com/maximevaillancourt/digital-garden-jekyll-template) digital garden template for Jekyll as my starting point. I continue to change it on an almost daily basis.
+- I've taken [Maxime Vaillancourt](https://github.com/maximevaillancourt/digital-garden-jekyll-template)'s digital garden template for Jekyll as my starting point. I continue to change it on an almost daily basis.
 - The font you're looking at is whatever is native to your operating system.
 - There are a few [[2022-11-26-notes-on-my-web-mastery|things]] I use to keep things running smoothly.
 

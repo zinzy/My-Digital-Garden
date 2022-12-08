@@ -10,14 +10,14 @@ There is very little about Marina Abramović that is not awe-inducing. For one o
 
 ![Marina Abramović during her performance piece _Rhythm 0_, with a loaded gun in her left hand, pointing at her head.](https://res.cloudinary.com/dbi2zounq/image/upload/c_scale,w_700/v1667834197/zinzy.website/marina-abramovic-rhythm-0.png)
 
-She has developed an excellent [[Marina Abramović Method|method]] that is helping me meditate in a more creative way. At MoMa, she celebrated her retrospective by performing _[The Artist is Present](https://www.moma.org/calendar/exhibitions/964)_, she spent months at a table gazing into the eyes of strangers, never getting up. Her fifty-year tenure as one of the world's leading performance artists has inspired countless people and she has let performance art reach far beyond the invisible but sturdy boundaries of high-brow art.
+She has developed an excellent [[Marina Abramovic Method|method]] that is helping me meditate in a more creative way. At MoMa, she celebrated her retrospective by performing _[The Artist is Present](https://www.moma.org/calendar/exhibitions/964)_, she spent months at a table gazing into the eyes of strangers, never getting up. Her fifty-year tenure as one of the world's leading performance artists has inspired countless people and she has let performance art reach far beyond the invisible but sturdy boundaries of high-brow art.
 
 I remember how casual I felt about having obtained tickets for _No Intermission_ at Carré. I knew of Marina, and Anja sure was excited (she has been trying to find a torrented version of the nowhere-to-be-found documentary _The Artist is Present_ for weeks now, with no success), and I even took the time to research her work a bit[^1]. I didn't at all understand what I was to expect, and true to form I met that lack of understanding with a lack of true enthusiasm.
 
 Nevertheless, I did join Anja in showing up extra early, and so at 10 A.M. on a Saturday, we were the first in line for Marina's 12-hour group perfomance show.
 
 ### Performers
-The event was kicked of by Marina, who taught a one-hour workshop on her [[Marina Abramović Method|method]]. After that, we were free to roam Carré for eleven hours, where ten performance artists were scattered around the building. We had access to areas usually closed off to the public, which made for an exciting day.
+The event was kicked of by Marina, who taught a one-hour workshop on her [[Marina Abramovic Method|method]]. After that, we were free to roam Carré for eleven hours, where ten performance artists were scattered around the building. We had access to areas usually closed off to the public, which made for an exciting day.
 
 - **[Abel Azcona](https://abelazcona.art/)**  with _La Savia_: having Carré's basement all to himself, Abel had a three-screen installation where the audience simultaneously got acquainted with him narrating his abusive and neglectful childhood, him spacing on heroin, and him prostituting himself for the last time. I was quite late to the party, but apparently he has actually taken heroin in the theatre upstairs as well, and people were taking care of his body. Later, during the afterparty, I complemented him on his work. He gave me a tight embrace and whispered "I love you" in my ear, smelling of whatever he had clearly been drinking extensively. I felt ashamed to learn that I loved his substance abuse, but predominantly as an art form.
 
@@ -40,7 +40,7 @@ After a while, though, people began pulling up chairs, reminding me that you can
 ![A view of the stage of Carré, purple lamps lighting a crowd. Close to the photographer, two people are seated on chairs across from each other. The woman on the left wears a white gown, the man on the right a white shirt and dark jeans. Both are barefont. Employing Marina Abramović' famous technique, they gaze into each other's eyes. Behind them are two people doing the same, and behind them, a few more pairs have taken their spot. Everyone is silent. Around them, people look on in silence.](https://res.cloudinary.com/dbi2zounq/image/upload/c_scale,w_1200/v1667837939/zinzy.website/46DE0897-D685-43FA-9D42-68FCFBAA75D4_vzj6sl.jpg)
 
 ### My takeaways
-- The [[Marina Abramović Method]] is great for connecting with [[Deep knowing]]
+- The [[Marina Abramovic Method]] is great for connecting with [[Deep knowing]]
 - Anthony Hüseyin is an excellent musician
 
 ![A view of the stage of Carré from one of the theatre's boxes. Close to the photographer, people can be seen writing on typewriters. In the background, a few dozen people are lying on the stage. The backdrop of the stage features a large piece of cloth, printed with a photograph of a beehive.](https://res.cloudinary.com/dbi2zounq/image/upload/c_scale,w_1200/v1667837999/zinzy.website/ECD1C131-6F84-4AC5-970B-4992B14679B5_nicug6.jpg)
