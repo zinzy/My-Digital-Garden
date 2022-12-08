@@ -3,12 +3,13 @@ categories: [Lists]
 excerpt: "A list of things I'd like to have done at some point in my life"
 ---
 - Complete yin [[Yoga]] teacher training
-- Buy a piano and freshen up my skills
+- Buy a piano, freshen up my skills, and teach myself Philip Glass and some of the classics
 - Become fluent in [[Yiddish]]
 - Complete a week-long silent retreat
 - Visit the cat island in Japan
 - Visit Israel
 - Visit California
+- Visit the state of Washington
 - Take a ceramics course
 - Own and play an electric guitar
 - Show artwork in a cafe
@@ -17,4 +18,4 @@ excerpt: "A list of things I'd like to have done at some point in my life"
 - Have a corgi 
 - Make my own tea
 - Rent out a theatre for a viewing of _Titanic_
-- 
+- Live in the English countryside 
