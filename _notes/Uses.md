@@ -2,22 +2,22 @@
 categories: [Info]
 excerpt: "Things I love and use"
 ---
-I maintain this page as an incomplete overview of the things I love to use. Kind of like [Uses This](https://usesthis.com/), but here I don't need an invite. 
-
-Before you dive in, please know that I believe (and tell myself in the mirror that) [[* Tools don't matter]]. 
+I maintain this page as an incomplete overview of the things I love to use. Kind of like [Uses This](https://usesthis.com/), but they haven't requested an interview yet. Before you dive in, please know that I believe (and tell myself in the mirror that) [[* Tools don't matter]]. I don't list all the tools I use (you don't care that I have an iPhone), just the ones that have made a significant impact of which I'm aware.
 
 ### Hardware 
-- [WH-1000XM4 Wireless Premium Noise Canceling Headphones](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-b)
+- [WH-1000XM4 Wireless Premium Noise Canceling Headphones](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-b) have kept me sane working from home in the same room as a high school teacher
 - (What brand is that reading light again?)
+- [Cubix Round Zip Box Pen Case in black](https://www.jetpens.com/Cubix-Round-Zip-Box-Pen-Case-Black/pd/14514) fits all of the writing and drawing utensils I use on a given day
 
 ### Kitchen
-- I've inherited Anja's kitchen utensil snobbery and have become a big fan of[ Le Creuset's silicone spatula series](https://www.lecreuset.com/kitchen-tools/spoons-and-spatulas). I wouldn't know how to cook a proper meal without them.
+- [Le Creuset's silicone spatulas](https://www.lecreuset.com/kitchen-tools/spoons-and-spatulas) facilitate my need to leave nothing behind in any pan, pot, jar, or bowl. The small ones are best.
+- [Karasu Knives](https://karasu-knives.com/) is a boutique in Amsterdam run by our "knife guy"
 
 ### Wear
-- Over the Summer, I got myself a [Nike Sportswear RPM Waistpack](https://www.nike.com/nl/en/t/sportswear-rpm-waistpack-CNTh3z/CQ3817-010). Fanny packs are notoriously sizeist, but luckily this pack's extra belt makes for a create extension, giving me the support I need.
+- [Nike Sportswear RPM Waistpack](https://www.nike.com/nl/en/t/sportswear-rpm-waistpack-CNTh3z/CQ3817-010): I am one of those people who doesn't like a large day pack, and this fanny pack (the belt of which works for my body) is a great alternative.
 
 ### Wellbeing
-- [Nidra Deep Rest Eye Mask with Nosepiece](https://nidragoods.com/collections/sleep-mask-collection/products/nidra-deep-rest-eye-mask-black)
+- [Nidra Deep Rest Eye Mask with Nosepiece](https://nidragoods.com/collections/sleep-mask-collection/products/nidra-deep-rest-eye-mask-black): I love being able to have my eyes open while I'm wearing a sleep mask, and this lets me do just that.
 
 ### Yoga
 - Yogitri ECO Buddhi eye pillow with lavender-scented flax seed, used for savasana
