@@ -13,7 +13,7 @@ tags:
 - [[Hello|Say hello]].
 - [[Pay|Pay me]]
 
-Hey there, I'm Zinzy, welcome to my personal website. If you're interested in its design and technical details, read my [[Colophon]]. 
+Hey there, I'm Zinzy, welcome to my personal website. This page is about me. If you're interested in its design and technical details, read my [[Colophon]]. 
 
 The best way to get to know me better is be speaking with me or reading the things on this website. I come here to learn in public, change my mind, and nurture my interests.
 
