@@ -1,28 +1,22 @@
 ---
 excerpt: "Notes on how, where, and why this website is made."
-categories: [Meta]
 ---
 This is a personal website, designed, built, and maintained by [[About|me, Zinzy Waleson Geene]].
 
 ### Technical details
-- This website is built in [Jekyll](https://jekyllrb.com/), a flat-file content management system I've been using for years. I like my familiarity with the platform, as well as the light-weight nature of flat-file systems.
-- I've taken [Maxime Vaillancourt](https://github.com/maximevaillancourt/digital-garden-jekyll-template)'s digital garden template for Jekyll as my starting point. I continue to change it on an almost daily basis.
-- The font you're looking at is whatever is native to your operating system.
-- There are a few [[2022-11-26-notes-on-my-web-mastery|things]] I use to keep things running smoothly.
-
-### Philosophical considerations  
-- On here, you'll find soft stances, lived experiences, and critical notes on the things I hold dear. 
-- The website is organized as a collection of loosely linked, unfinished thoughts.
-- I use this website to participate in the [[IndieWeb]], a great community of people who enjoy tinkering on personal websites, as well as independence while they do so.
-- I believe in the idea of a singular personal website, containing details on personal and professional matters. 
-- I believe in thinking in public, and having it be an act of [[Anti-marketing]]. I work to make this a comfortable space where I feel no pressure to be smart, funny, insightful or anything else that I am not on a permanent basis. 
-- This website is casual, unpretentious, and unassuming. I make no attempt at participating in current debate (because I'm slow), and thus you may find references to articles, books, podcasts, or news that is new to me but may be miles behind you.
-
-### Thanks
-In making this website I was inspired and helped by a wide variety of people.
+A full overview of the technical implementation of this website can be found in my [`humans.txt` file](/humans.txt).
 
 ### Copyright
-Unless otherwise stated, everything on this website is licensed under [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+Unless otherwise stated, everything on this website is licensed under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), which means: share (and change) my work but say it's mine, don't use it for profit, and use the same license.
+
+### Philosophical
+This website is a vastly personal project. It contains soft stances, lived experiences, and critical notes on the things I hold dear. I use this website to participate in the [[IndieWeb]]. I believe in [[Thinking in public]], and having it be an act of [[Anti-marketing]]. This space isn't allowed to pressure me to be smart, funny, insightful or anything else that I am not on a permanent basis. I don't pretend to be involved in current events, and because of that you may find me discover things you've known about for ages already.
+
+### Content
+On this website, I mostly share two types of content: dated posts, sorted chronically in a [[blog]], and my [[notes|working notes]], which are updated frequently as I learn and develop my unfinished thoughts. If you spot anything that you think is wrong, [[Hello|let me know]].
+
+### Design
+This website is a text-mostly website, meaning it is designed to focus on the written word. I hope it provides a comfortable reading experience regardless of the screen you have. There's a color theme for light mode, as well as dark mode. I'm in the process of making my website fully accessible.
 
 ### To do on this website
 - Proper case handling of note titles
@@ -31,6 +25,7 @@ Unless otherwise stated, everything on this website is licensed under [Creative 
 - Frontmatter Boolean for Implied Reader, TBC and others
 - Tooltips for external/internal links
 - ~~[Automatically add tag and category pages ](https://github.com/sverrirs/jekyll-paginate-v2)~~ (opted for densely-linked materials)
+- Letting posts and working notes use the same tags
 
 ### Changelog
 - 2022-11-19:
