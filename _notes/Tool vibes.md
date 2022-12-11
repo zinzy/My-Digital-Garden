@@ -19,7 +19,9 @@ I've found that tool vibes are a very particular longing, one that is caused by 
 - Visually heavy
 - Problem solving is led by tool availability: I've transformed my own problem by jumping to a tool even if it didn't entirely match, just to experience the relief of having solved my problem
 
-### Images that invoke tool vibes for me
+### Things that invoke tool vibes for me
+
+https://thisbugslife.com/2016/05/03/the-ultimate-compilation-of-films-featuring-filofaxes/
   
 ![A photograph by Merlin Mann of the hand of journalist John Dickerson holding a Hipster PDA.](https://res.cloudinary.com/dbi2zounq/image/upload/c_scale,w_700/v1668935311/zinzy.website/merlin-mann-hipster-pda_hemu7b.png)
 
