@@ -10,7 +10,7 @@ tags:
 <div class="col-6"><img src="https://res.cloudinary.com/dbi2zounq/image/upload/v1667744670/me/zinzy-2_eixpog.jpg" alt="A portrait photo of Zinzy Waleson Geene, laughing hysterically, with her eyes closed. She's wearing a black shirt, has a short buzzcut, and a unique pair of glasses. A sunny Amsterdam is seen in the background." /></div>
 </div>
 
-- [[Hello|Say hello]].
+- [[Hello|Say hello]]
 - [[Pay|Pay me]]
 
 Hey there, I'm Zinzy, welcome to my personal website. If you're interested in its design and technical details, read my [[Colophon]]. The best way to get to know me is by spending time with me. Reading the things on this website is a soft alternative. I come here to learn in public, change my mind, and nurture my interests.
