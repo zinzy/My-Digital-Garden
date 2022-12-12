@@ -17,3 +17,5 @@ tags:
 	- How unimaginative are you in writing?
 	- alt text says more about why you choose to add an image that's both decorative and suggestive 
 
+### Further reading
+- https://www.nytimes.com/interactive/2022/02/18/arts/alt-text-images-descriptions.html
