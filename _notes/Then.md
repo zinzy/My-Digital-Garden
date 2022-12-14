@@ -4,7 +4,7 @@ excerpt: "An archive of my Now page"
 tags:
 - 
 ---
-An archive of my [[Old Now]] page.
+An archive of my [[2022-12-13-now]] page.
 
 ### October 2022
 
