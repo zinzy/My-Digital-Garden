@@ -1,14 +1,10 @@
 ---
-title: "The Crown"
-director: 
-date: 
+title: "The Crown" 
 genre: "Titles"
 tags:
 - Princess Diana
 - Biopic
-- Television series
-year:
-rating:
+- Television series 
 ---
 
 ## Who should see this

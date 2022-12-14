@@ -1,13 +1,5 @@
 ---
 title: "Gaga Feminism"
-author: Jack Halberstam
-publication: 2012
-date:  
-doi: 
-genre: 
-tags:
-year:
-rating:
 ---
 
 ## Who should read this

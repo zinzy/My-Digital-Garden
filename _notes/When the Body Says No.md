@@ -1,13 +1,5 @@
 ---
-title: 
-author: 
-publication:
-date:  
-doi: 
-genre: 
-tags:
-year:
-rating:
+title: "When the Body Says No"
 ---
 
 1. ## Who should read this
