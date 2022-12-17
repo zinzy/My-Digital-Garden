@@ -32,9 +32,13 @@ V:Vc clef=bass
 ```
 
 
-
 ## Leerstrategie
 1. Bassleutel notatie
 2. Scales 
 3. Akkoorden
-4. Scales met bassleutel akkoorden
+4. Scales met bassleutelakkoorden
+
+
+## Songs to learn
+- Joni Mitchell
+- The *Dear Sugar* theme song

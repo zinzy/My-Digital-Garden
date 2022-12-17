@@ -1,6 +1,7 @@
 ---
 date: 2021-01-24
 title: "Films about White people"
+excerpt: "A poem"
 tags:
 - Poem
 - Being Black

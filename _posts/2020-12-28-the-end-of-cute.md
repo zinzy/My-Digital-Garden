@@ -1,6 +1,7 @@
 ---
 date: 2020-12-28
 title: "The end of cute"
+excerpt: "A poem"
 tags:
 - Queerdom
 - Pandemic

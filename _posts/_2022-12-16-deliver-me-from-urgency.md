@@ -20,3 +20,4 @@ I've found that the need to optimize any process will increase the likelihood th
 
 There's a period in any optimization process where we have to ask ourselves: [is the solution I found too big for the problem I'm solving](https://xkcd.com/1205/)?
 
+### Slow web

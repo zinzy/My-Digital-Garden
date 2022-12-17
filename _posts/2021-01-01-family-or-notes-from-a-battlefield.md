@@ -1,6 +1,7 @@
 ---
 title: "Family, or notes from the battlefield"
 layout: post 
+excerpt: "A poem"
 date: 2021-01-01 
 tags:
 - Catholicism
