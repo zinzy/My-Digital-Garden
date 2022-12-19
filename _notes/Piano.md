@@ -9,34 +9,12 @@ On my 35th birthday I gave myself what I promised.
 
 Below you'll find rough notes of what I'm learning.
 
-
 --- 
 
-## Notes
-
-### Sleutels
-- **# Vioolsleutel**
-	- Andere benamingen: "treble clef", "g clef", "g-sleutel"
-	- Wordt ook wel g-sleutel genoemd omdat-ie op g4 zit
-- **Bassleutel**
-	- Andere benamingen: "bass clef", "f clef", "f-sleutel"
-	- Dit is heel verwarrend voor mij, omdat een noot die ik ken als G dus een F is...
-
-### Landmark notes
-```music-abc
-"Floating F" f | "Treble C" c | "Treble G" G | "Middle C" C |
-```
-```music-abc
-V:Vc clef=bass
-"Bass F" F, | "Bass C" C, | "Ground G" G,, |
-```
-
-
-## Leerstrategie
-1. Bassleutel notatie
-2. Scales 
-3. Akkoorden
-4. Scales met bassleutelakkoorden
+- [[Sight reading]]
+- [[Piano practice strategy]]
+- I'm a fan of teaching myself how to play instruments, so I didn't opt for in-person or private piano lessons. Instead, I purchased an annual subscription from Pianote. Follow along with what I'm learning in [[Piano learning progress]].
+ 
 
 
 ## Songs to learn

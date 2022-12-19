@@ -15,7 +15,9 @@ pile: true
 
 ### Watched
 - [[Ali & Ava]]
-- Broken Child
+- Broken Child (HBO)
+- _[Alleen Samen](https://www.2doc.nl/documentaires/2022/12/alleen-samen.html)_
+- _[Femicide](https://www.2doc.nl/documentaires/2022/12/femicide.html)_
 
 ### Read
 - The Midnight Library

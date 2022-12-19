@@ -10,7 +10,7 @@ A full overview of the technical implementation of this website can be found in 
 Unless otherwise stated, everything on this website is licensed under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), which means: share (and change) my work but say it's mine, don't use it for profit, and use the same license.
 
 ### Philosophical
-This website is a vastly personal project. It contains soft stances, lived experiences, and critical notes on the things I hold dear. I use this website to participate in the [[IndieWeb]]. I believe in [[Thinking in public]], and having it be an act of [[Anti-marketing]]. This space isn't allowed to pressure me to be smart, funny, insightful or anything else that I am not on a permanent basis. I don't pretend to be involved in current events, and because of that you may find me discover things you've known about for ages already.
+This website is a vastly personal project. It contains soft stances, lived experiences, and critical notes on the things I hold dear. I use this website to participate in the [[IndieWeb]]. I believe in [[Think in public]], and having it be an act of [[Anti-marketing]]. This space isn't allowed to pressure me to be smart, funny, insightful or anything else that I am not on a permanent basis. I don't pretend to be involved in current events, and because of that you may find me discover things you've known about for ages already.
 
 ### Content
 On this website, I mostly share two types of content: dated posts, sorted chronically in a [[blog]], and my [[notes|working notes]], which are updated frequently as I learn and develop my unfinished thoughts. If you spot anything that you think is wrong, [[Hello|let me know]].
