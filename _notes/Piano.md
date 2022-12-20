@@ -20,3 +20,5 @@ Below you'll find rough notes of what I'm learning.
 ## Songs to learn
 - Joni Mitchell
 - The *Dear Sugar* theme song
+- Anohni 
+- Don't stop believin'

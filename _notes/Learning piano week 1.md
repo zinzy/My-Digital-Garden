@@ -59,3 +59,14 @@ Week 52, 2022.
 
 ## What I learned
 - To regain motivation after it has wained, remind yourself of your piano goals, incorporate technique into your practice, meditate afterwards to feel the rebound of a session, check practice categories to see what sparks your interest.
+- Piano chord inversion:
+	- Playing a chord, but the first note isn't the root. 
+	- Inversion is progressive: each next inversion adds the bottom key to the top of the stack
+	- Example for C major:
+			- Root: C - E - G
+			- First inversion: E - G - C
+			- Second inversion: G - C - E
+	- Throughout inversion cycle, root note is the one with the most space beneath it
+- Putting together a practice:
+	- Warm-up: simple scale review, dexterity exercise. Whatever gets your fingers moving and helps you arrive at the piano
+	- Technique: could be whatever elements from a current song you want to practice (chords? rhythm?)

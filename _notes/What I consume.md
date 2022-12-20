@@ -18,6 +18,7 @@ pile: true
 - Broken Child (HBO)
 - _[Alleen Samen](https://www.2doc.nl/documentaires/2022/12/alleen-samen.html)_
 - _[Femicide](https://www.2doc.nl/documentaires/2022/12/femicide.html)_
+- _[[Triangle of Sadness]]_ (8)
 
 ### Read
 - The Midnight Library
