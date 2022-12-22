@@ -22,3 +22,5 @@ Below you'll find rough notes of what I'm learning.
 - The *Dear Sugar* theme song
 - Anohni 
 - Don't stop believin'
+- Amélie
+- Regina Spektor
