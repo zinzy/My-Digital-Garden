@@ -1,8 +1,5 @@
 ---
-categories: [Me]
-excerpt: ""
-tags:
-- 
+title: "Hello"
 ---
 Hello, I'm [[About|Zinzy Waleson Geene]]! I enjoy meeting new people. If you have something to share, you'd like to play or learn together, or can think of any other reason we should be talking, get in touch with me. This is my [hello](https://alastairjohnston.com/introducing-hello-pages/) page, where you can learn how I like to keep in touch.
 

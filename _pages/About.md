@@ -1,9 +1,5 @@
 ---
-categories: [Me]
-excerpt: "I'm Zinzy Waleson, a researcher, designer, and linguist from Amsterdam"
-tags:
-- meta
-- information
+title: "About me"
 ---
 Hey there, I'm Zinzy, welcome to my personal website. If you're interested in its design and technical details, read my [[Colophon]]. The best way to get to know me is by spending time with me. Reading the things on this website is a soft alternative. I come here to learn in public, change my mind, and nurture my interests.
 

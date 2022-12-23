@@ -9,7 +9,7 @@ tags:
 - 
 
 ### Fleeting notes
-- The act of writing, as a tool to help you think, is one that should happen primarily with yourself in mind. The "you" here is [[about|you]].
+- The act of writing, as a tool to help you think, is one that should happen primarily with yourself in mind. The "you" here is [[About|you]].
 - Writing helps you carve out a place for yourself, one where your ideas, thoughts, questions, and concerns are taken seriously.
 
 ### Related concepts
