@@ -5,7 +5,7 @@ Hello, I'm [[About|Zinzy Waleson Geene]]! I enjoy meeting new people. If you hav
 
 ### How to contact me:
 - Some of your answers might be found on my [[faq]] page.
-- For any inquiry, email is your best shot. Please use my [[contact|contact form]].
+- For any inquiry, email is your best shot. Please use my [[Contact|contact form]].
 - Follow me on [Mastodon](https://tech.lgbt/@zinzy)
 - If you'd like to schedule mentor time with me, check my [[Mentoring]] page (I'm currently on hiatus from it)
 - I do not use social media. Any account in my name that you may find is not in use, so feel safe assuming I won't see your message, and I won't receive a notification of it.
