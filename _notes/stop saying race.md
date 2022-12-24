@@ -1,7 +1,6 @@
 ---
 excerpt: "Why I no longer use the word 'race'"
 categories: [Society]
-date: "2021-05-28"
 ---
 Racism creates race[^1], this much we know is true. As a person of color, it has been nothing short of illuminating to learn that there are no biological traits different enough in me that I ought to be grouped under a different 'race' altogether. What we've come to call "race" is a social rather than a biological construct.
 

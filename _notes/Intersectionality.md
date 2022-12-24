@@ -1,6 +1,5 @@
 ---
 title: "Intersectionality"
-date: 2022-11-30
 excerpt: ""
 categories: []
 tags:

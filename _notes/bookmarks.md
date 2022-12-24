@@ -132,4 +132,5 @@ excerpt: "In lieu of an RSS reader, I prefer maintaining a list of URLs that I l
 - https://rachelandrew.co.uk/
 - https://www.dandevri.es/
 - [https://podviaznikov.com](https://podviaznikov.com/)
-- 
+- http://annagoss.co/
+- https://atlasminor.com/

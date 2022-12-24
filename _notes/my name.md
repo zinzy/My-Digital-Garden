@@ -1,7 +1,6 @@
 ---
 excerpt: "The origin of my name"
 categories: [Info]
-date: "2018-03-11"
 tags:
  - info
 ---

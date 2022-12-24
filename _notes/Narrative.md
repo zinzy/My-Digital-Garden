@@ -1,5 +1,4 @@
 ---
-startdate: "2019-04-05"
 categories: [Language]
 tags:
   - language

@@ -1,6 +1,5 @@
 ---
 excerpt: "I've been hosting intimate queer gatherings since May 2018"
-date: "2018-06-16"
 categories: [Queerdom]
 tags:
   - facilitation

@@ -1,6 +1,5 @@
 ---
 title: "Reverse tag"
-date: 2022-12-02
 excerpt: ""
 categories: []
 tags:

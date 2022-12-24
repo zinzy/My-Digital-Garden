@@ -1,5 +1,4 @@
 ---
-date: "2021-01-21"
 categories: [Queerdom]
 excerpt: "A side project van 2021"
 ---

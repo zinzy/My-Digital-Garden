@@ -2,7 +2,6 @@
 excerpt: "Doing things with words"
 categories: [Language]
 growthStage: "Seedling"
-date: "2011-10-14"
 featuredImage: 
 tags:
  - linguistics

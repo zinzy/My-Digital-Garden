@@ -1,7 +1,6 @@
 ---
 excerpt: "A home-tested pasta recipe that's so simple it's ridiculous, and so tasty it's scary"
 categories: [Cooking]
-date: "2021-06-12"
 tags:
  - recipes
 ---

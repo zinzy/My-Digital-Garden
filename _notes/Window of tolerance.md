@@ -1,5 +1,4 @@
 ---
-date: 2022-12-01
 excerpt: "The zone of arousal in which we are able to function most effectively"
 ---
 The window of tolerance is the zone in which we are able to handle emotions, stressors effectively. 
