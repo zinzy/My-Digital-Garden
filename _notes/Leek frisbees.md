@@ -1,0 +1,11 @@
+---
+---
+Silly name for a delicious dish I invented:
+- Slice three or four leeks in 1cm- disks
+- Arrange flat on baking sheet
+- Add olive oil, little salt and pepper
+- Put in oven at 200 for 10-15 minutes (until they start to brown)
+- Turn oven down to 150
+- Ladle with brine made of white wine, pomegranate molasse
+- Continue until brown and delicious
+- May take hours

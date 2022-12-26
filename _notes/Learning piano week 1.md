@@ -64,18 +64,10 @@ Week 52, 2022.
 
 
 ### Friday, [[2022-12-23]]
-- **Warm-up:** 
-- **Technique:** arpeggios | major scale | minor scale | triad inversions | diatonic chords
-- **Sight reading:** 
-- **Songs:** 
-- **Fun:** 
+- Played a little Philip Glass in the afternoon
 
 ### Saturday, [[2022-12-24]]
-- **Warm-up:** 
-- **Technique:** arpeggios | major scale | minor scale | triad inversions | diatonic chords
-- **Sight reading:** 
-- **Songs:** 
-- **Fun:** 
+- Completed https://www.musora.com/pianote/method/pianote-method/276693/getting-started-on-the-piano/276694/welcome-to-the-keyboard/276703/developing-a-left-hand-accompaniment/276728
 
 ### Sunday, [[2022-12-25]]
 - **Warm-up:** 
@@ -103,8 +95,10 @@ Week 52, 2022.
 		- Half step (from one key to the next)
 		- Whole step (skipping a key)
 	- Any major scale: W-W-H-W-W-W-H
+- The best way for me to refresh my memory on notation isn't by following the Pianote lessons to the letter (although their worksheets provide assistance), but trying to play sheet music of songs I don't know.
 - Songs:
 	- Philip Glass, _Glassworks: Opening_: first four bars
 	- Stevie Wonder, _Don't You Worry 'Bout a Thing_, intro, started on chords
 	- Patrick Watson, _The Great Escape_, in G and C
 	- Radiohead, _Everything in Its Right Place_, free arrangement
+	- Refael Mirila, *Running*
