@@ -1,6 +1,6 @@
 ---
 ---
-Piano mastery requires consistency, and my brain doesn't like that word. 
+Piano mastery requires consistency, and my brain doesn't like that at all. I've been known to run on musical talent, and combined with the formal musical training I had as a child, I run the risk of [[Coasting]] through my piano journey.
 
 
 

@@ -10,11 +10,12 @@
 - 
 
 ### Monday, [[2022-12-26]]
-- **Warm-up:** 
-- **Technique:** blindly play chord progression from [Pianote - Developing a left hand accompaniment](https://www.musora.com/pianote/method/pianote-method/276693/getting-started-on-the-piano/276694/welcome-to-the-keyboard/276703/developing-a-left-hand-accompaniment/276728)
-- **Sight reading:** 
-- **Songs:** 
-- **Fun:** 
+- Morning practice, 06:15
+	- **Warm-up:** [Sight Reading Training](https://sightreading.training/) 400/17 = 4,25%
+	- **Technique:** blindly play chord progression from [Pianote - Developing a left hand accompaniment](https://www.musora.com/pianote/method/pianote-method/276693/getting-started-on-the-piano/276694/welcome-to-the-keyboard/276703/developing-a-left-hand-accompaniment/276728)
+	- **Sight reading:**  [Sight Reading Training](https://sightreading.training/)  bass clef, 166/24 = 14,4%
+	- **Songs:** _Glassworks: Opening_
+	- **Fun:** Philip Glass, _Mad Rush_ (which I was reminded of by [this video from YouTuber Implied Music](https://www.youtube.com/watch?v=UnkvScitssE))
 
 ### Tuesday, [[2022-12-27]]
 - **Warm-up:** 

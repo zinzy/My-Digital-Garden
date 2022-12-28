@@ -28,7 +28,5 @@ V:Vc clef=bass
 ```
 
 
-
-
 [^1]:  [Reasons we have different clefs, on Wikipedia](https://en.wikipedia.org/wiki/Clef#:~:text=The%20use%20of%20different%20clefs,a%20minimum%20of%20ledger%20lines)
 [^2]: I first thought this was referred to as a [French violin clef](https://en.wikipedia.org/wiki/Clef#French_violin_clef%E2%80%A0), but that's a defunct clef positioned one line below the G clef.
