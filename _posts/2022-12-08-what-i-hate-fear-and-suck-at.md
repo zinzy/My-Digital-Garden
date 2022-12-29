@@ -21,7 +21,7 @@ In-patient treatment has helped train that muscle, though. My first vision board
 
 Treatment taught me a hack that's now helping me figure out what I hope 2023 will look like. Instead of identifying what I *do* hope, want, and yearn for, I look at what I *don't*. What I hate can tell me something about what I fear. What I fear can, in turn, lead me to what I desire. Knowing what I suck at can help me identify challenges I might encounter as I move towards those desires. 
 
-As the year comes to a close, and as I figure out once again, but now from scratch, [[How I Life OS]], I'm asking myself:
+As the year comes to a close, and as I figure out once again, but now from scratch, [[Life OS]], I'm asking myself:
 
 - What do I hate?
 - What do I fear?

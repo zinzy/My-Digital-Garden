@@ -1,4 +1,0 @@
----
-excerpt: ""
-categories: [Art]
----
