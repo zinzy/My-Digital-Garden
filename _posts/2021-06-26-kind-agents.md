@@ -1,5 +1,6 @@
 ---
 title: "Kind agents"
+excerpt: ""
 date: 2021-06-26
 tags:
 - Pandemic

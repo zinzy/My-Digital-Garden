@@ -1,6 +1,7 @@
 ---
 date: 2021-07-18
 title: "A believable truth"
+excerpt: ""
 tags:
 - Amsterdam
 - Travel

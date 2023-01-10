@@ -1,5 +1,6 @@
 ---
 title: On keeping a journal 
+excerpt: ""
 date: 2012-08-31
 tags:
 - Blogging

@@ -1,5 +1,6 @@
 ---
 title: "Overheard in July"
+excerpt: ""
 date: 2021-07-27
 tags:
 - Overheard

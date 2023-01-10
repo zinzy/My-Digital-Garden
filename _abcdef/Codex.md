@@ -2,7 +2,7 @@
 excerpt: "A growing record of the things I believe"
 categories: [Me]
 ---
-Inspired by both [Buster Benson's _Codex_](https://busterbenson.com/beliefs/) and [Elliott Cost's _Opinions_](https://elliott.computer/pages/opinion/) I'm using this page to grow[^1] a record of things I believe.
+Inspired by both [Buster Benson's _Codex_](https://busterbenson.com/codex) and [Elliott Cost's _Opinions_](https://elliott.computer/pages/opinion/) I'm using this page to grow[^1] a record of things I believe.
 
 ## Terms of use
 

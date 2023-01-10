@@ -1,7 +1,7 @@
 ---
 title: "Reading list"
 date: 2012-08-10
-excerpt: "An overview of some of the books I enjoyed this year."
+excerpt: ""
 tags:
 - Comics
 - Reading

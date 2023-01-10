@@ -1,7 +1,6 @@
 ---
 title: "Family, or notes from the battlefield"
-layout: post 
-excerpt: "A poem"
+excerpt: ""
 date: 2021-01-01 
 tags:
 - Catholicism
@@ -118,4 +117,4 @@ Colossians 3:26 The freedom of the Lord is the wisdom to decide who is truly you
 
 ----
 
-_This is a Scripture reflection on [The Holy Family of Jesus, mary and Joseph](https://bible.usccb.org/bible/readings/122720.cfm){:target="_blank"}, written for [Vine & Fig](https://vineandfig.co/){:target="_blank"}_
+_This is a Scripture reflection on [The Holy Family of Jesus, mary and Joseph](https://bible.usccb.org/bible/readings/122720.cfm), written for [Vine & Fig](https://vineandfig.co/)_.

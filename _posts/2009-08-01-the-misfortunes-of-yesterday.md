@@ -9,6 +9,8 @@ tags:
 - Discrimination
 - Multiculturalism
 - Eindhoven
+- Inclusion
+- Emancipation
 ---
 It's Gay Pride today. Yesterday, as N and I were on our way to the cinema, somebody yelled "DYKES!" at us.
 

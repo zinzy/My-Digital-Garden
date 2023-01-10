@@ -1,6 +1,7 @@
 ---
 title: "Considerations"
 date: 2009-09-27
+excerpt: ""
 tags:
 - Blogging
 - Writing

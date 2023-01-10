@@ -1,6 +1,7 @@
 ---
 date: 2021-03-12
 title: "Aging: part one"
+excerpt: ""
 tags:
 - Inline skating
 - Memories

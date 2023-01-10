@@ -1,10 +1,14 @@
 ---
 title: "A new phase"
 date: 2009-08-21
+excerpt: ""
 tags:
 - University
 - School supplies
 - Memories
+- Notebook
+- Fountain pen
+- Growing up
 ---
 I remember it well, my transition from elementary to high school. Gone were the old days of person teaching every subject in a single classroom. Everything would be new again. New subjects, new people, teachers, supplies. It was the supplies that kept me up at night. Books were to be given the right cover, of course there would have to be a new pencil case. New notebooks. A diary.
 
@@ -18,6 +22,6 @@ The one thing I was keen on finding was a four-subject notebook, one for each co
 
 Home I went, with a teeny tiny plastic bag and two A5 notebooks.
 
-After nine years, realize I have everything I need. I no longer believe I need certain things to achieve my goals. Now it's just a matter of doing the work, with everything I need just within reach.
+After nine years, I realize I have everything I need. I no longer believe I need certain things to achieve my goals. Now it's just a matter of doing the work, with everything I need just within reach.
 
 Let's go.

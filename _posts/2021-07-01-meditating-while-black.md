@@ -1,5 +1,6 @@
 ---
 title: "Meditating while Black"
+excerpt: ""
 date: 2021-07-01 
 tags:
 - Meditation
